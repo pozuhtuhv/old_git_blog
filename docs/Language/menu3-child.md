@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Child1
-parent: Menu3
+title: Python
+parent: Language
 nav_order: 1
 ---
 
