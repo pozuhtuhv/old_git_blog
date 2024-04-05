@@ -2,7 +2,7 @@
 title: frist-child
 layout: default
 parent: Python
-grand_parent: Layout
+grand_parent: Python
 ---
 
 first-child
