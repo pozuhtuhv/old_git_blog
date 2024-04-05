@@ -1,12 +1,8 @@
 ---
+title: frist-child
 layout: default
-title: Python
-parent: Language List
-nav_order: 1
+parent: Python
+grand_parent: Layout
 ---
 
-# Child
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
+first-child
