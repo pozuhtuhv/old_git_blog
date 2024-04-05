@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aobut
+title: About
 nav_order: 2
 ---
 
