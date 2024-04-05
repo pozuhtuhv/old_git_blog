@@ -1,11 +1,12 @@
 ---
+title: Python
 layout: default
-title: Language List
-nav_order: 3
+parent: Layout
 has_children: true
-permalink: /docs/Language
 ---
 
-# Language List
+# Python
 
-Language List Page tests
+This page illustrates the built-in layout `minimal`.
+
+One of its child pages also uses the minimal layout; the other child pages uses the default layout.
