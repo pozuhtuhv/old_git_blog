@@ -31,14 +31,15 @@ nav_order: 2
 2. 창고 이동 최적화 제품별 로케이션 지정
 ```
 
-<div align='left'><h3><b>🌱 Skill </b></h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-3776AB?style=flat-square&logo=FastAPI&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Tableau-800080?style=flat-square&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/><br/>
+### **🌱** Skill
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)<br>
+[![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-3776AB?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)<br>
+[![Tableau](https://img.shields.io/badge/Tableau-800080?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack&logoColor=white)](https://slack.com/)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/)
+
   
 ```python
 Language : Python
@@ -58,7 +59,7 @@ ETC : 컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급
 - instagram : https://www.instagram.com/pozuhtuhv
 ```
   
-  <!--
+<!--
 **pozuhtuhv/pozuhtuhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
