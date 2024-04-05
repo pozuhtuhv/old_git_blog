@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Menu3
+title: Language List
 nav_order: 3
 has_children: true
-permalink: /docs/menu3
+permalink: /docs/Language
 ---
 
-# Menu3
+# Language List
 
-Menu3 Page tests
+Language List Page tests
