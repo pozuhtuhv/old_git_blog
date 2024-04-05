@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python
-parent: Language
+parent: Language List
 nav_order: 1
 ---
 
