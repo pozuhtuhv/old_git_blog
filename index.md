@@ -8,7 +8,11 @@ permalink: /
 
 # Welcome to My GitBlog
 
-![Python](/assets/images/code.png)
-
-
----
+```python
+# Just the doc theme
+# Home - /index.md
+# favicon.ico - /
+# About.md - /docs/About.md
+# Language - /docs/Language
+# Python - /docs/Language/Python
+```
