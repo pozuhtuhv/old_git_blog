@@ -3,6 +3,7 @@ title: Python
 layout: default
 parent: Language
 has_children: true
+nav_order : 1
 ---
 
 # Python

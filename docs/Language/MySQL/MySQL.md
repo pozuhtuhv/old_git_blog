@@ -3,6 +3,7 @@ title: MySQL
 layout: default
 parent: Language
 has_children: true
+nav_order : 2
 ---
 
 # MySQL
