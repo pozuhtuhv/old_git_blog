@@ -30,9 +30,9 @@ Hello World
 ## MySQL
 
 <div class="code-example" markdown="1">
-print("Hello World")
+SELECT * FROM djangodb;
 </div>
 
-```mysql
-SELECT name FROM employees;
-```
+| id | app_label |   model   |
+|----|-----------|-----------|
+|  1 |   admin   |  logentry |
