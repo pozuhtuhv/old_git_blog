@@ -52,8 +52,7 @@ ETC : 컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급
 유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
 ```
 
-<div align='left'><h3><b>📫 Contact </b></h3>
-
+## **📫** Contact
 ```python
 - Gmail : pozuhtuhv@gmail.com
 - instagram : https://www.instagram.com/pozuhtuhv
