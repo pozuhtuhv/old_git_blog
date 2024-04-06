@@ -1,7 +1,7 @@
 ---
 title: Python
 layout: default
-parent: Layout
+parent: Language
 has_children: true
 ---
 
