@@ -36,3 +36,7 @@ SELECT * FROM djangodb;
 | id | app_label |   model   |
 |----|-----------|-----------|
 |  1 |   admin   |  logentry |
+
+---
+
+## Django
