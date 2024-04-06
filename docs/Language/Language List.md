@@ -26,3 +26,14 @@ print("Hello World")
 Hello World
 ```
 
+---
+
+## MySQL
+
+<div class="code-example" markdown="1">
+print("Hello World")
+</div>
+
+```mysql
+SELECT name FROM employees;
+```
