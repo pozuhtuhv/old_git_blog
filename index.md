@@ -11,7 +11,7 @@ permalink: /
 ```python
 # Just the doc theme
 # Home - /index.md
-# favicon.ico - /
+# favicon.ico - /favicon.ico
 # About.md - /docs/About.md
 # Language - /docs/Language
 # Python - /docs/Language/Python
