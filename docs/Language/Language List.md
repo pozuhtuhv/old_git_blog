@@ -9,13 +9,12 @@ nav_order : 3
 permalink: '3'
 ---
 
-# Language List
-{: .no_toc .text-delta }
+## Language List
 
 ---
 
 사용하고 공부하고 있는 언어들의 리스트입니다.
 
-## Python
-## MySQL
-## Django
+# Python
+# MySQL
+# Django
