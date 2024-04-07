@@ -6,7 +6,7 @@ has_children: true
 nav_order : 3
 published_date: 2024-04-07
 last_modified_date: 2024-04-07
-permalink: '6'
+permalink: 'Django'
 ---
 
 # Django
