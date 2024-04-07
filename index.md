@@ -15,6 +15,4 @@ permalink: /
 # About.md - /docs/About.md
 # Language - /docs/Language
 # Python - /docs/Language/Python
-# Search Bar text - _includes/search_placeholder_custom.html
-# toc setting - _includes/toc_heading_custom.html
 ```
