@@ -4,11 +4,7 @@ title: About
 nav_order: 2
 published_date: 2024-04-07
 last_modified_date: 2024-04-07
-permalink: '2'
----
-
-# Python
-
+permalink: 'About'
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&duration=2500&pause=500&random=false&width=435&lines=Hello+world!+I'm+Hyeonseok-Cho;Welcome+to+My+Channel)](https://git.io/typing-svg)
