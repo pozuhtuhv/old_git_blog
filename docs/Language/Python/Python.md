@@ -6,7 +6,7 @@ has_children: true
 nav_order : 1
 published_date: 2024-04-07
 last_modified_date: 2024-04-07
-permalink: 'Python'
+permalink: 'python'
 ---
 
 # Python
