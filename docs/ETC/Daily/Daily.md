@@ -11,6 +11,4 @@ permalink: 'daily'
 
 # Daily
 
-This page illustrates the built-in layout `minimal`.
-
-One of its child pages also uses the minimal layout; the other child pages uses the default layout.
+`일상 글을 작성하는 카테고리`
