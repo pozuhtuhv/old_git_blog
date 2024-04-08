@@ -9,8 +9,8 @@ nav_order : 4
 permalink: 'etc'
 ---
 
-# ETC List
+## ETC List
 
 ---
 
-ETC
+### Daily
