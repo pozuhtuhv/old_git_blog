@@ -10,4 +10,7 @@ permalink: 'etc'
 ---
 
 # ETC List
-{: .no_toc .text-delta }
+
+---
+
+ETC
