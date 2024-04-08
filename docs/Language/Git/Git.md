@@ -1,5 +1,5 @@
 ---
-title: git
+title: Git
 layout: default
 parent: Language
 has_children: true
