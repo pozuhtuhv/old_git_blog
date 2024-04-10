@@ -29,19 +29,14 @@ line : 16 ~
 
 <br>
 
-#### 2. base.scss 수정
+#### 2. custom.scss 추가
 
-path : _sass/base.scss<br>
-line : 18 ~
-```css
-  body {
-    font-family: 'Noto Sans KR'; <!-- 폰트이름으로 변경 -->
-    font-size: inherit;
-    line-height: $body-line-height;
-    color: $body-text-color;
-    background-color: $body-background-color;
-    overflow-wrap: break-word;
-  }
+path : _sass/custom/custom.scss<br>
+line : 0 ~
+```scss
+p, a, h1, h2, h3, h4, h5, h6 {
+    font-family: "Noto Sans KR";
+}
 ```
 
-`테마 별로 다른 방법이 있다고 하는데 이 방법이 제일 최고인거 같아서 강제적용`
+`테마 별로 다른 방법이 있다고 하는데 이 방법이 제일 편한거 같아서 강제적용`
