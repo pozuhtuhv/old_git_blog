@@ -13,8 +13,8 @@ permalink: 'blog-1'
 
 #### 1. head.html 추가
 
-'_includes/head.html' 경로 16line ~'<br>
-
+path : _includes/head.html<br>
+line : 16 ~
 ```html
 <head>
   <meta charset="UTF-8">
@@ -26,8 +26,8 @@ permalink: 'blog-1'
 
 #### 2. base.scss 수정
 
-'_sass/base.scss' 경로 18line ~'<br>
-
+path : _sass/base.scss<br>
+line : 18 ~
 ```css
   body {
     font-family: 'Noto Sans KR'; <!-- 폰트이름으로 변경 -->
