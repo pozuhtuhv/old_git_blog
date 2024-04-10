@@ -11,7 +11,8 @@ permalink: 'blog-1'
 ## Noto Sans KR 폰트 적용
 <br>
 ###1. head.html 추가
-'_includes/head.html' 경로 16line ~<br>
+
+'_includes/head.html' 경로 16line ~'<br>
 
 ```html
 <head>
@@ -22,9 +23,10 @@ permalink: 'blog-1'
 
 <br>
 ###2. base.scss 수정
-'_sass/base.scss' 경로 18line ~ <br>
 
-```html
+'_sass/base.scss' 경로 18line ~'<br>
+
+```css
   body {
     font-family: 'Noto Sans KR'; <!-- 폰트이름으로 변경 -->
     font-size: inherit;
