@@ -3,7 +3,7 @@ title: Daily
 layout: default
 parent: ETC
 has_children: true
-nav_order : 3
+nav_order : 5
 published_date: 2024-04-08
 last_modified_date: 2024-04-08
 permalink: 'daily'

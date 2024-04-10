@@ -14,3 +14,4 @@ permalink: 'etc'
 ---
 
 ### Daily
+### Blog
