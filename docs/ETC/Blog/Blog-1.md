@@ -11,20 +11,19 @@ permalink: 'blog-1'
 ## Noto Sans KR 폰트 적용
 <br>
 ###1. head.html 추가
-<br>
-'_includes/head.html' 경로에 16line ~ head 직접 추가
-<br>
+'_includes/head.html' 경로 16line ~<br>
+
 ```html
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <link href="https://fonts.googleapis.com/..." rel="stylesheet">
 ```
+
 <br>
 ###2. base.scss 수정
-<br>
-'_sass/base.scss' 경로에 18line ~ 직접 수정 
-<br>
+'_sass/base.scss' 경로 18line ~ <br>
+
 ```html
   body {
     font-family: 'Noto Sans KR'; <!-- 폰트이름으로 변경 -->
