@@ -13,6 +13,7 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet"> <!--폰트 추가-->
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
 
@@ -38,9 +39,6 @@
 
   {% if site.search_enabled != false %}
     <script src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/vendor/lunr.multi.min.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/vendor/lunr.stemmer.support.min.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/vendor/lunr.ko.min.js' | relative_url }}"></script>
   {% endif %}
 
   <script src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
