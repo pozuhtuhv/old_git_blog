@@ -7,7 +7,12 @@ published_date: 2024-04-08
 last_modified_date: 2024-04-08
 permalink: 'daily-1'
 ---
+## Table of contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+---
 ## 고통의 고통이었다
 <br>
 방법을 알아가는데만 한 몇일이 걸렸다.<br>
