@@ -6,7 +6,7 @@ grand_parent: Language
 published_date: 2024-04-11
 last_modified_date: 2024-04-11
 permalink: 'python-1'
-published : true
+published : false
 ---
 ## Table of contents
 {: .no_toc .text-delta }
@@ -17,9 +17,9 @@ published : true
 ## Python 공부를 시작하고 처음 만들었던 코드
 <br>
 
-`-처음 만들어본 파이썬 코드 리뷰-`
-`영어자막에 대한 것을 찾다가 발견한 자막 사이트`
-`'자막을 그대로 저장해보고 싶다' 라는 생각에 만들어보았던 것`
+`-처음 만들어본 파이썬 코드 리뷰-`<br>
+`영어자막에 대한 것을 찾다가 발견한 자막 사이트`<br>
+`'자막을 그대로 저장해보고 싶다' 라는 생각에 만들어보았던 것`<br>
 <br>
 
 ```python
