@@ -24,7 +24,7 @@ line : 16 ~
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <link href="https://fonts.googleapis.com/..." rel="stylesheet">
+  <link href="https://fonts.googleapis.com/..." rel="stylesheet"> <!-- 폰트 스타일시트 -->
 ```
 
 <br>
