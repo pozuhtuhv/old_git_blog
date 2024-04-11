@@ -15,15 +15,16 @@ permalink: 'About'
 ## (주) 킥더허들 / 피토틱스
 ###### 2021.02 - 2023.12 / 이커머스 건강기능식품 사업부 / Growth Team (Data Engineer)
 ```python
-1. Google Looker Studio 데이터 시각화
-  - 데이터 수집 자동화 / SQL 연동 / 전사데이터 시각화
+1. 데이터 시각화
+  - ETL 프로세스 설계 및 구현
+  - Google Looker, 태블로 리포트 시각화 구현
 2. 슬랙봇 자동화 / 데일리 데이터 알림
   - SQL, Docker, Python 자동화 알림 (DAU, Turnover, MAU, etc..)
 3. Python 자동화 개발
-  - 루틴업무 자동화 / 효율화 MySQL, Flask, FastAPI 기획/개발/배포
+  - 루틴업무 자동화 / 효율화, MySQL, Flask, FastAPI 기획/개발/배포
   - GUI 프로그램 제작 / 검색어 상위노출 데이터 / API 통신 데이터 수집
   - 데이터 공유 활성화를 위한 MySQL DB import/export 기능 기획/개발/배포
-4. Google Analytics / Tagmanager 유저행동데이터 태그 지정 수집
+4. Google Analytics / Tagmanager 유저행동데이터 태그 수집
 5. 트랜드 분석 및 인사이트 도출
   - 커뮤니티 사용자 데이터 수집 / 판매처 사용자 분석
 ```
