@@ -16,17 +16,16 @@ permalink: 'About'
 ###### 2021.02 - 2023.12 / 이커머스 건강기능식품 사업부 / Growth Team (Data Engineer)
 ```python
 1. 데이터 시각화
-  - ETL 프로세스 설계 및 구현
+  - ETL 프로세스 설계 구현 및 고도화
   - Google Looker, 태블로 리포트 시각화 구현
-2. 슬랙봇 자동화 / 데일리 데이터 알림
-  - SQL, Docker, Python 자동화 알림 (DAU, Turnover, MAU, etc..)
-3. Python 자동화 개발
-  - 루틴 업무 자동화 / 효율화 
+  - Slack / 일간 데이터 자동화 알림 (DAU, Turnover, MAU, etc..)
+2. Python 자동화 / 업무 효율화
+  - 루틴 업무 자동화 / 효율화, 직원 업무시간 주당 30시간 효율 개선
   - MySQL, Django, Flask, Fast API, 데이터베이스 관리 기획/개발/배포
   - GUI 프로그램 제작 / 검색어 상위노출 데이터 / API 통신 데이터 수집
   - 데이터 공유 활성화를 위한 MySQL DB import/export 기능 기획/개발/배포
-4. Google Analytics / Tagmanager 유저행동데이터 태그 수집
-5. 트랜드 분석 및 인사이트 도출
+3. Google Analytics / Tagmanager 유저행동데이터 태그 수집
+4. 트랜드 분석 및 인사이트 도출
   - 커뮤니티 사용자 데이터 수집 / 판매처 사용자 분석
 ```
 ## (주) 테라프릭스 / 메디톨드
@@ -47,11 +46,13 @@ permalink: 'About'
 
   
 ```python
+Git : Git, GitHub
 Language : Python
 Database : MySQL
 Visualization : Data Studio, Tableau
-Data : SQL, Google Optimize, Google Analytics, GTM
+Data : Google Optimize, Google Analytics
 API : Flask, FastAPI, Django
+Cooperation Tool : Notion, Slack, Jandi
 
 ETC : 컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
 유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
