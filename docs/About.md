@@ -21,7 +21,8 @@ permalink: 'About'
 2. 슬랙봇 자동화 / 데일리 데이터 알림
   - SQL, Docker, Python 자동화 알림 (DAU, Turnover, MAU, etc..)
 3. Python 자동화 개발
-  - 루틴업무 자동화 / 효율화, MySQL, Flask, FastAPI 기획/개발/배포
+  - 루틴 업무 자동화 / 효율화 
+  - MySQL, Django, Flask, Fast API, 데이터베이스 관리 기획/개발/배포
   - GUI 프로그램 제작 / 검색어 상위노출 데이터 / API 통신 데이터 수집
   - 데이터 공유 활성화를 위한 MySQL DB import/export 기능 기획/개발/배포
 4. Google Analytics / Tagmanager 유저행동데이터 태그 수집
