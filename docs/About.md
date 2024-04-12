@@ -7,7 +7,7 @@ last_modified_date: 2024-04-07
 permalink: 'About'
 ---
 
-## Hyeonseok Cho
+# Hyeonseok Cho
 - - -
 #### Contact
 \- Email :<pozuhtuhv@gmail.com><br>
@@ -23,7 +23,7 @@ permalink: 'About'
 \- Automation<br>
 \- improve, productivity (생상선과 효율성)
 
-#### Skills
+### Skills
 ##### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ##### Data
@@ -38,7 +38,7 @@ permalink: 'About'
 컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
 유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
 
-#### Work Experience
+### Work Experience
 #### (주) 킥더허들 / 피토틱스
 ###### 2021.02 - 2023.12 / 이커머스 건강기능식품 사업부 / Growth Team (Data Engineer)
 ```python
