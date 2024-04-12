@@ -40,6 +40,8 @@ DATABASES = {
 }
 ```
 
+`이걸 설정하는 이유는 Django 기본 데이터베이스는 sqlite3 로 진행되기 때문에 mysql로 연결시켜주는 것`
+
 #### 3. 서버 정상설치 확인하기
 ```python 
 python manage.py runserver
