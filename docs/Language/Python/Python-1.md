@@ -6,7 +6,7 @@ grand_parent: Language
 published_date: 2024-04-11
 last_modified_date: 2024-04-11
 permalink: 'python-1'
-published : false
+published : true
 ---
 ## Table of contents
 {: .no_toc .text-delta }
