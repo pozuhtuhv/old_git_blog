@@ -10,7 +10,7 @@ permalink: 'About'
 # Hyeonseok Cho
 - - -
 #### Contact
-\- Email :<pozuhtuhv@gmail.com><br>
+\- Email : <pozuhtuhv@gmail.com><br>
 \- instagram : <https://instagram.com/pozuhtuhv>
 - - -
 #### Links
