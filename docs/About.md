@@ -12,17 +12,18 @@ permalink: 'About'
 #### Contact
 \- Email :<pozuhtuhv@gmail.com><br>
 \- instagram : <httsp://instagram.com/pozuhtuhv>
+- - -
 #### Links
 \- GitHub : <https://github.com/pozuhtuhv/><br>
 \- Blog : <https://pozuhtuhv.github.io/>
-
+- - -
 #### Interest
 \- Data engineering<br>
 \- Data Analytics<br>
 \- Data Visualization<br>
 \- Automation<br>
 \- improve, productivity (생상선과 효율성)
-
+- - -
 ### Skills
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -34,10 +35,7 @@ permalink: 'About'
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack&logoColor=white)
 #### Data Visualization
 ![Looker](https://img.shields.io/badge/Looker-blue?style=flat-square&logo=Looker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-800080?style=flat-square&logo=Tableau&logoColor=white)
-#### ETC
-컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
-유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
-
+- - -
 ### Work Experience
 #### (주) 킥더허들 / 피토틱스
 ###### 2021.02 - 2023.12 / 이커머스 건강기능식품 사업부 / Growth Team (Data Engineer)
@@ -61,3 +59,7 @@ permalink: 'About'
 1. 재고관리, 생산출고, 입출고 데이터 추적
 2. 창고 이동 최적화 제품별 로케이션 지정
 ```
+- - -
+#### ETC
+컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
+유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
