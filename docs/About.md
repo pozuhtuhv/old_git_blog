@@ -11,11 +11,11 @@ permalink: 'About'
 - - -
 #### Contact
 \- Email :<pozuhtuhv@gmail.com><br>
-\- instagram : <httsp://instagram.com/pozuhtuhv/> 
+\- instagram : <https://instagram.com/pozuhtuhv>
 - - -
 #### Links
-\- GitHub : <https://github.com/pozuhtuhv/><br>
-\- Blog : <https://pozuhtuhv.github.io/>
+\- GitHub : <https://github.com/pozuhtuhv><br>
+\- Blog : <https://pozuhtuhv.github.io>
 - - -
 #### Interest
 \- Data engineering<br>
