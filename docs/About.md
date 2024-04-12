@@ -12,7 +12,9 @@ permalink: 'About'
 #### Contact
 \- Email :<pozuhtuhv@gmail.com><br>
 \- instagram : <httsp://instagram.com/pozuhtuhv>
-- - -
+
+<div style="border-left: 1px solid #000; height: 50px;"></div>
+
 #### Links
 \- GitHub : <https://github.com/pozuhtuhv/><br>
 \- Blog : <https://pozuhtuhv.github.io/>
@@ -56,10 +58,14 @@ permalink: 'About'
 #### (주) 테라프릭스 / 메디톨드
 ###### 2023.12 - 2024.03 / 화장품 제조업 / Logistics Team (Data)
 ```python
-1. 재고관리, 생산출고, 입출고 데이터 추적
+1. 재고관리, 생산출고, 입출고 데이터 입력 자동화
 2. 창고 이동 최적화 제품별 로케이션 지정
 ```
 - - -
 #### ETC
-컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
-유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
+\- 컴퓨터 활용능력 2급<br>
+\- 2종 보통운전면허<br>
+\- 사회복지사 2급<br>
+\- 유소년 스포츠지도사<br>
+\- 생활스포츠지도사 2급<br>
+\- 3톤미만 지게차 운용<br>
