@@ -10,31 +10,35 @@ permalink: 'About'
 ## Hyeonseok Cho
 - - -
 #### Contact
-: Email : pozuhtuhv@gmail.com
+\- Email :<pozuhtuhv@gmail.com>
+\- instagram : <httsp://instagram.com/pozuhtuhv>
 #### Links
-- GitHub : https://github.com/pozuhtuhv/
-- Blog : https://pozuhtuhv.github.io/
-#### Interest
-- Data engineering
-- Data Analytics
-- Data Visualization
-- Automation
-- improve, productivity (생상선과 효율성)
+\- GitHub : <https://github.com/pozuhtuhv/>
+\- Blog : <https://pozuhtuhv.github.io/>
 
-### Skills
-<b>Programming Languages</b>
-Python
-<b>Back-end development</b>
-MySQL, MongoDB
-<b>Framework</b>
-FastAPI, Django, Flask
-<b>Application</b>
-Git, GitHub
-<b>ETC</b>
-컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
+#### Interest
+\- Data engineering
+\- Data Analytics
+\- Data Visualization
+\- Automation
+\- improve, productivity (생상선과 효율성)
+
+#### Skills
+##### Programming Languages
+\- Python
+##### Data
+\- MySQL, MongoDB, Google Analytics
+##### Framework
+\- FastAPI, Django, Flask
+##### Application
+\- Git, GitHub, Slack, Jandi
+##### Data Visualization
+\- Data Studio, Tableau
+##### ETC
+\- 컴퓨터 활용능력 2급, 2종 보통운전면허, 사회복지사 2급,
 유소년 스포츠지도사, 생활스포츠지도사 2급, 3톤미만 지게차 운용
 
-##### Work Experience
+#### Work Experience
 #### (주) 킥더허들 / 피토틱스
 ###### 2021.02 - 2023.12 / 이커머스 건강기능식품 사업부 / Growth Team (Data Engineer)
 ```python
@@ -56,23 +60,4 @@ Git, GitHub
 ```python
 1. 재고관리, 생산출고, 입출고 데이터 추적
 2. 창고 이동 최적화 제품별 로케이션 지정
-```
-
-  
-```python
-Git : Git, GitHub
-Language : Python
-Database : MySQL
-Visualization : Data Studio, Tableau
-Data : Google Optimize, Google Analytics
-API : Flask, FastAPI, Django
-Cooperation Tool : Notion, Slack, Jandi
-
-
-```
-
-## **📫** Contact
-```python
-- Gmail : pozuhtuhv@gmail.com
-- instagram : https://www.instagram.com/pozuhtuhv
 ```
