@@ -35,7 +35,7 @@ permalink: 'About'
 \- Programming Languages<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) <br>
 \- Data<br>
-![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273E4E?style=flat-square&logo=PostgreSQL&logoColor=white)<br>
 \- Framework API<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-3776AB?style=flat-square&logo=FastAPI&logoColor=white) ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)<br>
 \- Application<br>
