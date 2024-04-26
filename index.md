@@ -15,7 +15,7 @@ permalink: /
 # About.md - /docs/About.md
 # Language - /docs/Language
 # Python - /docs/Language/Python
-# MySQL - /docs/Language/MySQL
+# Pytorch - /docs/Language/Pytorch
 # Django - /docs/Language/Django
 # ETC - /docs/ETC
 # Daily - /docs/ETC/Daily
