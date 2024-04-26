@@ -7,7 +7,9 @@ published_date: 2024-04-11
 last_modified_date: 2024-04-11
 permalink: 'python-1'
 published : true
-tag : codereview
+tags:
+    - review
+    - python
 ---
 ## Table of contents
 {: .no_toc .text-delta }
