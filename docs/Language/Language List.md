@@ -17,13 +17,13 @@ permalink: 'language'
 
 #### List
 <a href="https://pozuhtuhv.github.io/python">
-    <span style="font-size:8px;">- Python</span>
+    <span style="font-size:10px;">- Python</span>
 </a><br>
 <a href="https://pozuhtuhv.github.io/pytorch">
-    <span style="font-size:8px;">- Pytorch</span>
+    <span style="font-size:10px;">- Pytorch</span>
 </a><br>
 <a href="https://pozuhtuhv.github.io/django">
-    <span style="font-size:8px;">- Django</span>
+    <span style="font-size:10px;">- Django</span>
 </a>
 
 <!-- \- [Python](https://pozuhtuhv.github.io/python)<br> -->
