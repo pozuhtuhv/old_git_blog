@@ -16,6 +16,16 @@ permalink: 'language'
 사용하고 공부하고 있는 언어들의 리스트입니다.
 
 #### List
-\- [Python](https://pozuhtuhv.github.io/python)<br>
-\- [Pytorch](https://pozuhtuhv.github.io/pytorch)<br>
-\- [Django](https://pozuhtuhv.github.io/django)
+<a href="https://pozuhtuhv.github.io/python">
+    <span style="font-size:8px;">- Python</span>
+</a><br>
+<a href="https://pozuhtuhv.github.io/pytorch">
+    <span style="font-size:8px;">- Pytorch</span>
+</a><br>
+<a href="https://pozuhtuhv.github.io/django">
+    <span style="font-size:8px;">- Django</span>
+</a>
+
+<!-- \- [Python](https://pozuhtuhv.github.io/python)<br> -->
+<!-- \- [Pytorch](https://pozuhtuhv.github.io/pytorch)<br> -->
+<!-- \- [Django](https://pozuhtuhv.github.io/django) -->
