@@ -13,5 +13,6 @@ permalink: 'etc'
 
 ---
 
-### Daily
-### Blog
+#### List
+\- [Daily](https://pozuhtuhv.github.io/daily)<br>
+\- [Blog](https://pozuhtuhv.github.io/blog)
