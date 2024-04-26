@@ -14,5 +14,12 @@ permalink: 'etc'
 ---
 
 #### List
-\- [Daily](https://pozuhtuhv.github.io/daily)<br>
-\- [Blog](https://pozuhtuhv.github.io/blog)
+<a href="https://pozuhtuhv.github.io/daily">
+    <span style="font-size:14px;">- Daily</span>
+</a><br>
+<a href="https://pozuhtuhv.github.io/blog">
+    <span style="font-size:14px;">- Blog</span>
+</a>
+
+<!-- \- [Daily](https://pozuhtuhv.github.io/daily) -->
+<!-- \- [Blog](https://pozuhtuhv.github.io/blog) -->
