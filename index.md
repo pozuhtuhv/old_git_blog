@@ -9,14 +9,14 @@ permalink: /
 # Welcome to My GitBlog
 
 ```python
-# Just the doc theme
-# Home - /index.md
-# favicon.ico - /favicon.ico
-# About.md - /docs/About.md
-# Language - /docs/Language
-# Python - /docs/Language/Python
-# Pytorch - /docs/Language/Pytorch
-# Django - /docs/Language/Django
-# ETC - /docs/ETC
-# Daily - /docs/ETC/Daily
+Just the doc theme
+Home - /index.md - This Page
+favicon.ico - /favicon.ico - favicon
+About.md - /docs/About.md - My information
+Language - /docs/Language - Language Main Category
+Python - /docs/Language/Python - Python Category
+Pytorch - /docs/Language/Pytorch - Pytorch Category
+Django - /docs/Language/Django - Django Category
+ETC - /docs/ETC - ETC Main Category
+Daily - /docs/ETC/Daily - Daily Category
 ```
