@@ -70,7 +70,7 @@ permalink: 'About'
 ```
 - - -
 #### Education
-\- Pytorch 과정 (진행중)
+\- Pytorch 과정 (진행중)<br>
 \- Yolov8 이미지 라벨링
 - - -
 #### ETC
