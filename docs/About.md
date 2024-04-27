@@ -10,11 +10,11 @@ permalink: 'About'
 # Hyeonseok Cho
 - - -
 \- 안녕하세요! 2년차 데이터 개발자 조현석입니다.<br>
-\- 데이터 분석에 개발을 응용하며, 더욱 더 의미있는, 가치있는 데이터 찾기에 푹 빠져 있습니다.<br>
+\- 개발을 데이터 분석에 응용하며, 더욱 더 의미있는, 가치있는 데이터 찾기에 푹 빠져 있습니다.<br>
 \- 무엇보다도 꾸준함과 기록의 가치를 알기에 기술블로그를 운영을 하고있습니다. <br>
 \- Code Review를 통해 Clean Code에 대한 고민을 생활화합니다.<br>
 \- 클라이밍과 머신러닝에 관심이 많습니다.<br>
-{: .fs-4 }
+{: .fs-5 }
 - - -
 #### Contact
 \- Email : <pozuhtuhv@gmail.com><br>
@@ -25,7 +25,7 @@ permalink: 'About'
 \- Blog : <https://pozuhtuhv.github.io>
 - - -
 #### Interest
-\- Data engineering<br>
+\- Data Engineering<br>
 \- Data Analytics<br>
 \- Data Visualization<br>
 \- Automation<br>
@@ -65,12 +65,13 @@ permalink: 'About'
 #### (주) 테라프릭스 / 메디톨드
 ###### 2023.12 - 2024.03 / 화장품 제조업 / Logistics Team (Data)
 ```python
-1. 재고관리, 생산출고, 입출고 데이터 입력 자동화
+1. 재고관리, 생산출고, 입출고 데이터 입력 자동화 (이지어드민, 이플렉스)
 2. 창고 이동 최적화 제품별 로케이션 지정
 ```
 - - -
 #### Education
 \- Pytorch 과정 (진행중)
+\- Yolov8 이미지 라벨링
 - - -
 #### ETC
 \- 컴퓨터 활용능력 2급<br>
