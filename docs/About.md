@@ -33,22 +33,27 @@ permalink: 'About'
 - - -
 ### Skills
 \- Programming Languages<br>
+{: .fs-3 }
 ![Python](https://img.shields.io/badge/Python-1E415E?style=flat-square&logo=Python) <br>
 \- Data<br>
 ![MySQL](https://img.shields.io/badge/MySQL-27262B?style=flat-square&logo=MySQL) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273E4E?style=flat-square&logo=PostgreSQL)<br>
 \- Framework API<br>
+{: .fs-3 }
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E2129?style=flat-square&logo=FastAPI) 
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django) 
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)<br>
 \- Application<br>
+{: .fs-3 }
 ![Git](https://img.shields.io/badge/Git-27262B?style=flat-square&logo=Git) 
 ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github) 
 ![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack)<br>
 \- Data Visualization<br>
+{: .fs-3 }
 ![Looker](https://img.shields.io/badge/Looker-27262B?style=flat-square&logo=Looker) 
 ![Tableau](https://img.shields.io/badge/Tableau-26579A?style=flat-square&logo=Tableau)<br>
 \- Automation<br>
+{: .fs-3 }
 ![Selenium](https://img.shields.io/badge/Selenium-27262B?style=flat-square&logo=Selenium) 
 - - -
 ### Work Experience
