@@ -57,8 +57,7 @@ permalink: 'About'
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)<br>
 \- A.I<br>
 {: .fs-3 }
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)<br>
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)<br>
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
 - - -
 ### Work Experience
 #### (주) 킥더허들 / 피토틱스
