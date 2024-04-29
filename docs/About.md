@@ -33,17 +33,23 @@ permalink: 'About'
 - - -
 ### Skills
 \- Programming Languages<br>
-![Python](https://img.shields.io/badge/Python-1E415E?style=flat-square&logo=Python&logoColor=white) <br>
+![Python](https://img.shields.io/badge/Python-1E415E?style=flat-square&logo=Python) <br>
 \- Data<br>
-![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273E4E?style=flat-square&logo=PostgreSQL&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273E4E?style=flat-square&logo=PostgreSQL)<br>
 \- Framework API<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=FastAPI&logoColor=white) ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=FastAPI) 
+![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django) 
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)<br>
 \- Application<br>
-![Git](https://img.shields.io/badge/Git-F54D27?style=flat-square&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack&logoColor=white)<br>
+![Git](https://img.shields.io/badge/Git-F54D27?style=flat-square&logo=Git) 
+![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github) 
+![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack)<br>
 \- Data Visualization<br>
-![Looker](https://img.shields.io/badge/Looker-blue?style=flat-square&logo=Looker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-26579A?style=flat-square&logo=Tableau&logoColor=white)<br>
+![Looker](https://img.shields.io/badge/Looker-blue?style=flat-square&logo=Looker) 
+![Tableau](https://img.shields.io/badge/Tableau-26579A?style=flat-square&logo=Tableau)<br>
 \- Automation<br>
-![Selenium](https://img.shields.io/badge/Selenium-Green?style=flat-square&logo=Selenium&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-Green?style=flat-square&logo=Selenium) 
 - - -
 ### Work Experience
 #### (주) 킥더허들 / 피토틱스
