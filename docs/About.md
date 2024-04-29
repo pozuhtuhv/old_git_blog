@@ -42,7 +42,7 @@ permalink: 'About'
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django) 
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)<br>
 \- Application<br>
-![Git](https://img.shields.io/badge/Git-F0F0E8?style=flat-square&logo=Git) 
+![Git](https://img.shields.io/badge/Git-27262B?style=flat-square&logo=Git) 
 ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github) 
 ![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack)<br>
 \- Data Visualization<br>
