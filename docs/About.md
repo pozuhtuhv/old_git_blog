@@ -33,31 +33,23 @@ permalink: 'About'
 - - -
 ### Skills
 \- Programming Languages<br>
-{: .fs-3 }
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) <br>
 \- Data<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)<br>
 \- Framework API<br>
-{: .fs-3 }
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)<br>
 \- Application<br>
-{: .fs-3 }
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)<br>
 \- Data Visualization<br>
-{: .fs-3 }
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)<br>
 \- Automation<br>
-{: .fs-3 }
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)<br>
-\- A.I<br>
-{: .fs-3 }
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
 - - -
 ### Work Experience
 #### (주) 킥더허들 / 피토틱스
