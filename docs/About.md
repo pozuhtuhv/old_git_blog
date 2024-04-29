@@ -35,21 +35,21 @@ permalink: 'About'
 \- Programming Languages<br>
 ![Python](https://img.shields.io/badge/Python-1E415E?style=flat-square&logo=Python) <br>
 \- Data<br>
-![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL) 
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=MySQL) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273E4E?style=flat-square&logo=PostgreSQL)<br>
 \- Framework API<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=FastAPI) 
+![FastAPI](https://img.shields.io/badge/FastAPI-1E2129?style=flat-square&logo=FastAPI) 
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=django) 
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)<br>
 \- Application<br>
-![Git](https://img.shields.io/badge/Git-F54D27?style=flat-square&logo=Git) 
+![Git](https://img.shields.io/badge/Git-F0F0E8?style=flat-square&logo=Git) 
 ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=Github) 
 ![Slack](https://img.shields.io/badge/Slack-800080?style=flat-square&logo=Slack)<br>
 \- Data Visualization<br>
-![Looker](https://img.shields.io/badge/Looker-blue?style=flat-square&logo=Looker) 
+![Looker](https://img.shields.io/badge/Looker-FFFFFF?style=flat-square&logo=Looker) 
 ![Tableau](https://img.shields.io/badge/Tableau-26579A?style=flat-square&logo=Tableau)<br>
 \- Automation<br>
-![Selenium](https://img.shields.io/badge/Selenium-Green?style=flat-square&logo=Selenium) 
+![Selenium](https://img.shields.io/badge/Selenium-FFFFFF?style=flat-square&logo=Selenium) 
 - - -
 ### Work Experience
 #### (주) 킥더허들 / 피토틱스
