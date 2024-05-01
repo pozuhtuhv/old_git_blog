@@ -8,6 +8,8 @@ keywords: []
 tags: ["git", "dev"]
 ---
 
+원글: [https://younsl.github.io](https://younsl.github.io/blog/initialize-entire-commit-log/)
+
 ## 개요
 
 특정 레포지터리의 전체 커밋로그를 삭제(초기화)하는 방법을 설명합니다.  
