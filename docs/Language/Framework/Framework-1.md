@@ -5,7 +5,7 @@ parent: Framework
 grand_parent: Language
 published_date: 2024-04-11
 last_modified_date: 2024-04-11
-permalink: 'framework-1'
+permalink: 'django-1'
 ---
 ## Table of contents
 {: .no_toc .text-delta }
