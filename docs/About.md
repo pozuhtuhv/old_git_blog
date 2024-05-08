@@ -60,7 +60,7 @@ permalink: 'About'
   - Google Looker, 태블로 리포트 시각화 구현
 2. Python 자동화 / 업무 효율화
   - 루틴 업무 자동화 / 효율화, 마케팅 직원 업무시간 주당 30시간 효율 개선
-  - MySQL, Django, Flask, Fast API, 데이터베이스 관리 기획/개발/배포
+  - MySQL, Fast API 데이터베이스 관리 기획/개발/배포
   - Slack / 일간 데이터 자동화 알림 (DAU, Turnover, MAU, etc..)
   - GUI 프로그램 제작 / 검색어 상위노출 데이터 / API 통신 데이터 수집
   - 데이터 공유 활성화를 위한 MySQL DB import/export 기능 기획/개발/배포

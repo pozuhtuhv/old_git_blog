@@ -22,8 +22,8 @@ permalink: 'language'
 <a href="https://pozuhtuhv.github.io/pytorch">
     <span style="font-size:14px;">- Pytorch</span>
 </a><br>
-<a href="https://pozuhtuhv.github.io/django">
-    <span style="font-size:14px;">- Django</span>
+<a href="https://pozuhtuhv.github.io/framework">
+    <span style="font-size:14px;">- Framework</span>
 </a>
 
 <!-- \- [Python](https://pozuhtuhv.github.io/python)<br> -->
