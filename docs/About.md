@@ -56,11 +56,11 @@ permalink: 'About'
 ###### 2021.02 - 2023.12 / 이커머스 건강기능식품 사업부 / Growth Team (Data Engineer)
 ```python
 1. 데이터 시각화
-  - ETL 프로세스 설계 구현 및 고도화
+  - 데이터 수집 및 고도화
   - Google Looker, 태블로 리포트 시각화 구현
-2. Python 자동화 / 업무 효율화
+2. Python 데이터베이스 관리 / 업무 효율화
+  - MySQL, Fast API 사내 데이터베이스 API 관리 기획/개발/배포
   - 루틴 업무 자동화 / 효율화, 마케팅 직원 업무시간 주당 30시간 효율 개선
-  - MySQL, Fast API 데이터베이스 관리 기획/개발/배포
   - Slack / 일간 데이터 자동화 알림 (DAU, Turnover, MAU, etc..)
   - GUI 프로그램 제작 / 검색어 상위노출 데이터 / API 통신 데이터 수집
   - 데이터 공유 활성화를 위한 MySQL DB import/export 기능 기획/개발/배포
