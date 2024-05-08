@@ -1,5 +1,5 @@
 ---
-title: 2024-04-11 Nomal Set
+title: 2024-04-11 Django Nomal Set
 layout: default
 parent: Framework
 grand_parent: Language
