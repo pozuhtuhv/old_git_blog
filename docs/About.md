@@ -4,7 +4,7 @@ title: About
 nav_order: 2
 published_date: 2024-04-07
 last_modified_date: 2024-04-07
-permalink: 'About'
+permalink: 'about'
 ---
 
 # Hyeonseok Cho
