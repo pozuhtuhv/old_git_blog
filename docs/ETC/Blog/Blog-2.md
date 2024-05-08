@@ -16,15 +16,20 @@ permalink: 'blog-2'
 ## Git Bash -> Repo upload
 <br>
 
-#### 1. Git Bash로 업로드할 폴더 설정
+#### 1. Github에 NEW 리포지토리 git repo url 확인
 
-폴더에서 마우스 우측 -> Open Git Bash here<br>
+![docs](https://raw.githubusercontent.com/pozuhtuhv/0000_imgstorage/main/blog-2.1.png)<br>
+git repo url copy<br>
 
-#### 2. Git Bash 명령어 하나씩 수행
+#### 2. Git Bash로 업로드할 폴더 설정
+
+폴더에서 마우스 우측 -> 'Open Git Bash here'<br>
+
+#### 3. Git Bash 명령어 하나씩 수행
 ```bash
 git init
 git branch -m main
-git remote add origin "ropo.git.url"
+git remote add origin "git ropo url"
 git add .
 git commit -m "commit 내용"
 git push -u origin main
