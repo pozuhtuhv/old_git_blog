@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Table of contents</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <hr>
+<h2 id="title-2024-04-11-django-nomal-setlayout-defaultparent-frameworkgrand_parent-languagepublished_date-2024-04-11last_modified_date-2024-04-11permalink-django-1">title: 2024-04-11 Django Nomal Set
+layout: default
+parent: Framework
+grand_parent: Language
+published_date: 2024-04-11
+last_modified_date: 2024-04-11
+permalink: 'django-1'</h2>
+<h2 id="table-of-contents">Table of contents</h2>
+<p>{: .no_toc .text-delta }</p>
+<ol>
+<li>TOC
+{:toc}</li>
+</ol>
+<hr>
+<h2 id="django-기본-구축하기">Django 기본 구축하기</h2>
+<br>
+<h4 id="0-django-소개">0. Django 소개</h4>
+<p>Python에서 제일 많이 알려진 웹프레임워크이며, 2005년 공개 후 오픈소스가 가장 많다.
+웹 개발에 필요한 거의 모든것을 포함하고 있고, 기본디자인이나 인터페이스를 쉽게 구현하기에 쉽다</p>
+<ol>
+<li>모델, 템플릿, 뷰 구성요소를 통해 애플리케이션을 구성한다.</li>
+<li></li>
+</ol>
+<h4 id="1-python-패키지-설치">1. Python 패키지 설치</h4>
+<pre><code class="language-python">python venv [folder] <span class="hljs-comment"># 가상환경 세팅</span>
+
+pip install django, mysqlclient <span class="hljs-comment"># 패키지 설치</span>
+
+django-admin startproject [프로젝트 이름] <span class="hljs-comment"># django 프로젝트 폴더 만들기</span>
+</code></pre>
+<h4 id="2-settingpy-기본구성-수정">2. <a href="http://setting.py">setting.py</a> 기본구성 수정</h4>
+<pre><code class="language-json">DATABASES = <span class="hljs-punctuation">{</span>
+    &#x27;default&#x27;<span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        &#x27;ENGINE&#x27;<span class="hljs-punctuation">:</span> &#x27;django.db.backends.mysql&#x27;<span class="hljs-punctuation">,</span>
+        &#x27;NAME&#x27;<span class="hljs-punctuation">:</span> &#x27;MYTEST&#x27;<span class="hljs-punctuation">,</span>
+        &#x27;USER&#x27;<span class="hljs-punctuation">:</span> &#x27;root&#x27;<span class="hljs-punctuation">,</span>
+        &#x27;PASSWORD&#x27;<span class="hljs-punctuation">:</span> &#x27;<span class="hljs-number">1234</span>&#x27;<span class="hljs-punctuation">,</span>
+        &#x27;HOST&#x27;<span class="hljs-punctuation">:</span> &#x27;localhost&#x27;<span class="hljs-punctuation">,</span>
+        &#x27;PORT&#x27;<span class="hljs-punctuation">:</span> &#x27;<span class="hljs-number">3306</span>&#x27;<span class="hljs-punctuation">,</span>
+    <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<p><code>이걸 설정하는 이유는 Django 기본 데이터베이스는 sqlite3 로 진행되기 때문에 mysql로 연결시켜주는 것</code></p>
+<h4 id="3-서버-정상설치-확인하기">3. 서버 정상설치 확인하기</h4>
+<pre><code class="language-python">python manage.py runserver
+</code></pre>
+<h4 id="4-마이그레이션">4. 마이그레이션</h4>
+<pre><code class="language-python">python manage.py migrate
+</code></pre>
+
+            
+            
+        </body>
+        </html>
