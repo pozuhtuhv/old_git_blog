@@ -14,9 +14,9 @@ Home - /index.md - This Page
 favicon.ico - /favicon.ico - favicon
 About.md - /docs/About.md - My information
 Language - /docs/Language - Language Main Category
-Python - /docs/Language/Python - Python Category
-Pytorch - /docs/Language/Pytorch - Pytorch Category
-Django - /docs/Language/Django - Django Category
+Python - /docs/Language/python - Python Category
+Pytorch - /docs/Language/pytorch - Pytorch Category
+FrameWork - /docs/Language/framework - Framework Category
 ETC - /docs/ETC - ETC Main Category
 Daily - /docs/ETC/Daily - Daily Category
 ```
