@@ -1,10 +1,10 @@
 ---
-title: 2024-04-11 fastapi Nomal Set
+title: 2024-05-09 fastapi Nomal Set
 layout: default
 parent: Framework
 grand_parent: Language
-published_date: 2024-04-11
-last_modified_date: 2024-04-11
+published_date: 2024-05-09
+last_modified_date: 2024-05-09
 permalink: 'fastapi-1'
 ---
 ## Table of contents
