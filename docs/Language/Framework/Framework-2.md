@@ -39,8 +39,8 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
-# SQLALCHEMY_DATABASE_URL = 'sqlite:///./postapp.db'
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:aaaaa@127.0.0.1:3306/fastapi_test"
+# SQLALCHEMY_DATABASE_URL = 'sqlite:///./postapp.db' # SQLlite 사용시
+SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:aaaaa@127.0.0.1:3306/fastapi_test" # mysql 사용시
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
@@ -53,7 +53,8 @@ from database import Base
 class Users(Base):
     __tablename__ = "users"
 
-    id = Column(Integer)
+# MySQL Column 작성
+    user = Column(String(50))
     email = Column(String(50))
 ```
 
@@ -65,7 +66,7 @@ app = FastAPI()
 
 @app.get("/")
 async def read_root():
-    users = db.query(models.Users).user.get("id").all()
+    user = db.query(models.Users).user.get("user").all()
     email = db.query(models.Users).user.get("email").all()
     return {"user": user,"email": email}
 ```
