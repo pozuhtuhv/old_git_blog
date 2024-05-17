@@ -33,7 +33,7 @@ python venv [folder] # 가상환경 세팅
 
 pip install django, mysqlclient # 패키지 설치
 
-django-admin startproject {projectname} # django 프로젝트 폴더 만들기 ex) config
+django-admin startproject {projectname} . # django 프로젝트 폴더 만들기 ex) config
 
 django-admin startapp {appname} # django 앱 폴더 만들기
 ```
@@ -65,6 +65,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework', # api 구동
     '{appname}', # startapp으로 만든 앱이름 추가
 ]
 ```
@@ -105,16 +106,16 @@ urlpatterns = [
 ### 7. {appname}/views.py 설정
 ```python 
 from rest_framework import generics
-from .models import Board
-from .serializers import BoardSerializer
+from .models import BoardModel
+from .serializers import BoardModelSerializer
 
 class BoardListCreate(generics.ListCreateAPIView):
-    queryset = Board.objects.all()
-    serializer_class = BoardSerializer
+    queryset = BoardModel.objects.all()
+    serializer_class = BoardModelSerializer
 
 class BoardDetail(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Board.objects.all()
-    serializer_class = BoardSerializer
+    queryset = BoardModel.objects.all()
+    serializer_class = BoardModelSerializer
 ```
 
 ### 8. {appname}/serializers.py 설정
@@ -128,7 +129,7 @@ class BoardModelSerializer(serializers.ModelSerializer):
         fields = '__all__'
 ```
 
-### 9. 메인 URL 설정
+### 9. {projectname}/urls.py 메인 URL 설정
 ```python 
 from django.contrib import admin
 from django.urls import path, include
