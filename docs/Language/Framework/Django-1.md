@@ -28,11 +28,23 @@ Python에서 제일 많이 알려진 웹프레임워크이며, 2005년 공개 �
 `projectname : config`<br>
 `appname : board`
 
-### 1. Python 패키지 설치
+### 1. Python 패키지 설치 및 세팅
+
+```python
+# requirements.txt
+
+asgiref==3.8.1
+Django==5.0.6
+djangorestframework==3.15.1
+mysqlclient==2.2.4
+sqlparse==0.5.0
+tzdata==2024.1
+```
+
 ```python
 python venv [folder] # 가상환경 세팅
 
-pip install django, mysqlclient # 패키지 설치
+pip install -r requirements.txt # 패키지 설치
 
 django-admin startproject {projectname} . # django 프로젝트 폴더 만들기 ex) config
 
