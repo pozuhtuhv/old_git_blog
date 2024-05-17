@@ -2,6 +2,7 @@
 title: 2024-05-09 FastAPI Nomal Set
 layout: default
 parent: Framework
+nav_order : 8
 grand_parent: Language
 published_date: 2024-05-09
 last_modified_date: 2024-05-09

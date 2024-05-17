@@ -2,6 +2,7 @@
 title: 2024-04-11 Django API
 layout: default
 parent: Framework
+nav_order : 7
 grand_parent: Language
 published_date: 2024-04-11
 last_modified_date: 2024-04-11

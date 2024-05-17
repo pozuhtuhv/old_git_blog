@@ -2,6 +2,7 @@
 title: 2024-05-18 Django Requests
 layout: default
 parent: Framework
+nav_order : 7.1
 grand_parent: Language
 published_date: 2024-05-18
 last_modified_date: 2024-05-18
