@@ -44,7 +44,7 @@ django-admin startapp {appname} # django 앱 폴더 만들기
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'MYTEST',
+        'NAME': 'django_test', # 데이터베이스 스키마 이름
         'USER': 'root',
         'PASSWORD': 'aaaaa',
         'HOST': 'localhost',
