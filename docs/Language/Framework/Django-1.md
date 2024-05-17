@@ -1,5 +1,5 @@
 ---
-title: 2024-04-11 Django Nomal Set
+title: 2024-04-11 Django API
 layout: default
 parent: Framework
 grand_parent: Language
@@ -41,6 +41,8 @@ django-admin startapp {appname} # django 앱 폴더 만들기
 ### 2. {projectname}/setting.py의 데이터베이스구성 수정
 
 ```json
+MySQL 에서 해당하는 데이터베이스의 이름을 만들어놓아야함
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -68,6 +70,13 @@ INSTALLED_APPS = [
     'rest_framework', # api 구동
     '{appname}', # startapp으로 만든 앱이름 추가
 ]
+
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+        'rest_framework.renderers.BrowsableAPIRenderer',  # api 웹확인
+    ),
+}
 ```
 
 ### 4. {appname}/models.py의 데이터구성 수정
@@ -89,7 +98,6 @@ class BoardModel(models.Model):
 ```python
 python manage.py makemigrations {appname}
 python manage.py migrate
-
 ```
 
 ### 6. {appname}/urls.py API 엔드포인트 생성
@@ -132,7 +140,7 @@ class BoardModelSerializer(serializers.ModelSerializer):
 ### 9. {projectname}/urls.py 메인 URL 설정
 ```python 
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -143,4 +151,10 @@ urlpatterns = [
 ### 10. 서버 실행하기
 ```python 
 python manage.py runserver
+```
+
+### 11. 마이그레이션 후 데이터베이스 적용
+```python
+python manage.py makemigrations {appname}
+python manage.py migrate
 ```
