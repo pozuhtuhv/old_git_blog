@@ -1,0 +1,34 @@
+---
+title: 2024-05-22 깃오류.
+layout: default
+parent: Git
+grand_parent: ETC
+published_date: 2024-05-22
+last_modified_date: 2024-05-22
+permalink: 'git-1'
+---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---
+
+## fatal: protocol 'https' is not supported
+
+git bash 를 이용하다보면 나오는 그것<br>
+프로토콜 지원을 안한다 라는게 왜 나오는지 모르겠다<br>
+
+눈으로 보기에는 'https' 만 보이겠지만<br>
+bash 창에서는 'https' 앞에 문자는 표시 되지 않았던 것<br>
+
+단순한 방법으로는 메모장에 붙여넣기하고 그걸 다시 복사<br>
+이어서 명령어 진행하면 정상적이게 진행된다.<br>
+
+## Git Bash의 복사, 붙여넣기단축키
+
+- 복사하기 (Copy) : <br>
+Ctrl + Insert
+
+- 붙여넣기 (Paste) : <br>
+Shift + Insert
