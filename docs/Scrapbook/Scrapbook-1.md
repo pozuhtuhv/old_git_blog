@@ -1,7 +1,7 @@
 ---
 title: Git commit log 초기화
 layout: default
-parent: Language
+parent: Scrapbook
 has_children: true
 nav_order : 5
 published_date: 2024-05-22
