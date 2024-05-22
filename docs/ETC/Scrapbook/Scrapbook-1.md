@@ -2,8 +2,7 @@
 title: Git commit log 초기화
 layout: default
 parent: Scrapbook
-has_children: true
-nav_order : 5
+grand_parent: ETC
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
 permalink: 'scrapbook-1'

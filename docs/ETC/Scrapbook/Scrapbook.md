@@ -1,13 +1,12 @@
 ---
 title: Scrapbook
 layout: default
+parent: ETC
 has_children: true
-has_toc: false
+nav_order : 8
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
-nav_order : 3
 permalink: 'scrapbook'
-published : true
 ---
 
 ## Scrapbook
