@@ -17,7 +17,7 @@ permalink: 'git-1'
 ## fatal: protocol 'https' is not supported
 
 git bash 를 이용하다보면 나오는 그것<br>
-프로토콜 지원을 안한다 라는게 왜 나오는지 모르겠다<br>
+'프로토콜 지원을 안함'<br>
 
 눈으로 보기에는 'https' 만 보이겠지만<br>
 bash 창에서는 'https' 앞에 문자는 표시 되지 않았던 것<br>
