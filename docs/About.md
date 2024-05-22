@@ -46,7 +46,8 @@ permalink: 'about'
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)<br>
 \- Data Visualization<br>
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white) 
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)<br>
 \- Automation<br>
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)<br>
