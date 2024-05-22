@@ -13,7 +13,7 @@ permalink: 'language'
 
 ---
 
-사용하고 공부하고 있는 언어들의 리스트입니다.
+`사용하고 공부하고 있는 언어들의 리스트입니다.`
 
 #### List
 <a href="https://pozuhtuhv.github.io/python">

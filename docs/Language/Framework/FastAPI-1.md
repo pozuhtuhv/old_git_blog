@@ -7,6 +7,8 @@ grand_parent: Language
 published_date: 2024-05-09
 last_modified_date: 2024-05-09
 permalink: 'fastapi-1'
+keywords: ["FastAPI","API"]
+published : true
 ---
 ## Table of contents
 {: .no_toc .text-delta }

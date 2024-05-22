@@ -1,11 +1,20 @@
 ---
-title: "git 커밋로그 전체 삭제"
-date: 2022-04-15T22:33:52+09:00
-lastmod: 2023-02-24T18:04:52+09:00
-slug: ""
-description: "중요정보나 파일이 Public 레포지터리에 노출된 상황일 때, 커밋로그를 전체를 삭제(초기화)하는 방법"
-keywords: []
-tags: ["git", "dev"]
+title: Git commit log 초기화
+layout: default
+parent: Language
+has_children: true
+nav_order : 5
+published_date: 2024-05-22
+last_modified_date: 2024-05-22
+permalink: 'scrapbook-1'
+keywords: ["git", "commit"]
+published : true
+---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 ---
 
 원글: [https://younsl.github.io](https://younsl.github.io/blog/initialize-entire-commit-log/)
@@ -166,4 +175,6 @@ $ git log --graph
 
 애초에 작업 목적을 잘 생각해보면 우리는 레포지터리의 커밋 로그 전체를 날리고 싶었습니다.  
 main 브랜치를 그대로 다른 브랜치에 복제 떠서 백업한 후 main 브랜치 자체를 날리는게 훨씬 간단하고 안전합니다.  
-브랜치가 삭제될 때 그 안에 포함된 모든 커밋 로그도 같이 삭제된다는 점을 명심하세요.
+브랜치가 삭제될 때 그 안에 포함된 모든 커밋 로그도 같이 삭제된다는 점을 명심하세요.<br>
+
+원글: [https://younsl.github.io](https://younsl.github.io/blog/initialize-entire-commit-log/)

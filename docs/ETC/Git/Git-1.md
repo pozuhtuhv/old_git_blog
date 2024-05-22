@@ -6,6 +6,8 @@ grand_parent: ETC
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
 permalink: 'git-1'
+keywords: ["error"]
+published : true
 ---
 ## Table of contents
 {: .no_toc .text-delta }
