@@ -6,6 +6,8 @@ grand_parent: ETC
 published_date: 2024-04-08
 last_modified_date: 2024-04-08
 permalink: 'daily-1'
+keywords: ["gitblog"]
+published : true
 ---
 ## Table of contents
 {: .no_toc .text-delta }

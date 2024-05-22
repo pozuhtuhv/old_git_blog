@@ -1,5 +1,5 @@
 ---
-title: Git commit log 초기화
+title: Git commit log 초기화.
 layout: default
 parent: Scrapbook
 grand_parent: ETC
