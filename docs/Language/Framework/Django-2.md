@@ -5,7 +5,7 @@ parent: Framework
 nav_order : 7.1
 grand_parent: Language
 published_date: 2024-05-18
-last_modified_date: 2024-05-18
+last_modified_date: 2024-05-23
 permalink: 'django-2'
 keywords: ["django","API"]
 published : true
@@ -20,7 +20,7 @@ published : true
 <br>
 
 ### 0. 소개
-이전 Django 게시물에서 진행했던 기본API 세팅의 Requests 의 코드를 작성하는 글<br>
+이전 Django 데이터에서 진행했던 기본API 세팅의 Requests 의 코드를 작성하는 글<br>
 
 `import requests`
 
@@ -41,8 +41,20 @@ else:
 ```
 
 ### 2. 데이터 조희
+1. 전체 데이터 조회
 ```python
-post_id = 1  # 조회할 게시물의 ID
+url = f'http://localhost:8000/api/board/'
+
+response = requests.get(url)
+
+if response.status_code == 200:
+    print('Board Detail:', response.json())
+else:
+    print('Failed to retrieve board detail:', response.status_code)
+```
+2. 선택 데이터 조회
+```python
+post_id = 1  # 조회할 데이터의 ID
 url = f'http://localhost:8000/api/board/{post_id}/'
 
 response = requests.get(url)
@@ -55,7 +67,7 @@ else:
 
 ### 3. 데이터 수정
 ```python
-post_id = 1  # 수정할 게시물의 ID
+post_id = 1  # 수정할 데이터의 ID
 url = f'http://localhost:8000/api/board/{post_id}/'
 data = {
     'title': 'Updated Post',
@@ -72,7 +84,7 @@ else:
 
 ### 4. 데이터 삭제
 ```python
-post_id = 1  # 삭제할 게시물의 ID
+post_id = 1  # 삭제할 데이터의 ID
 url = f'http://localhost:8000/api/board/{post_id}/'
 
 response = requests.delete(url)
