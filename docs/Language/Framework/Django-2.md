@@ -41,6 +41,7 @@ else:
 ```
 
 ### 2. 데이터 조희
+
 1. 전체 데이터 조회
 ```python
 url = f'http://localhost:8000/api/board/'
