@@ -52,6 +52,7 @@ if response.status_code == 200:
 else:
     print('Failed to retrieve board detail:', response.status_code)
 ```
+
 2. 선택 데이터 조회
 ```python
 post_id = 1  # 조회할 데이터의 ID
