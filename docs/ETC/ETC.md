@@ -16,10 +16,10 @@ permalink: 'etc'
 #### List
 <a href="https://pozuhtuhv.github.io/git">
     <span style="font-size:14px;">- Git</span>
-</a>
+</a><br>
 <a href="https://pozuhtuhv.github.io/blog">
     <span style="font-size:14px;">- Blog</span>
-</a>
+</a><br>
 <a href="https://pozuhtuhv.github.io/daily">
     <span style="font-size:14px;">- Daily</span>
 </a><br>
