@@ -16,20 +16,25 @@ permalink: 'about'
 \- 클라이밍과 머신러닝에 관심이 많습니다.<br>
 {: .fs-5 }
 - - -
-#### Contact
-\- Email : <pozuhtuhv@gmail.com><br>
-\- instagram : <https://instagram.com/pozuhtuhv>
-- - -
-#### Links
-\- GitHub : <https://github.com/pozuhtuhv><br>
-\- Blog : <https://pozuhtuhv.github.io>
-- - -
-#### Interest
-\- Data Engineering<br>
-\- Data Analytics<br>
-\- Data Visualization<br>
-\- Automation<br>
-\- improve, productivity (생상선과 효율성)
+<table>
+  <tr>
+    <td>
+
+### Contact
+- Email : <pozuhtuhv@gmail.com><br>
+- Instagram : <https://instagram.com/pozuhtuhv>
+
+    </td>
+    <td>
+
+### Links
+- GitHub : <https://github.com/pozuhtuhv><br>
+- Blog : <https://pozutuhv.github.io>
+
+    </td>
+  </tr>
+</table>
+
 - - -
 ### Skills
 \- Programming Languages<br>
@@ -75,6 +80,13 @@ permalink: 'about'
 1. 재고관리, 생산출고, 입출고 데이터 입력 자동화 (이지어드민, 이플렉스)
 2. 창고 이동 최적화 제품별 로케이션 지정
 ```
+- - -
+#### Interest
+\- Data Engineering<br>
+\- Data Analytics<br>
+\- Data Visualization<br>
+\- Automation<br>
+\- improve, productivity (생상선과 효율성)
 - - -
 #### Education
 \- Pytorch 과정 (진행중)<br>
