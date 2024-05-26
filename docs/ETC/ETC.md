@@ -23,6 +23,9 @@ permalink: 'etc'
 <a href="https://pozuhtuhv.github.io/daily">
     <span style="font-size:14px;">- Daily</span>
 </a><br>
+<a href="https://pozuhtuhv.github.io/scrapbook">
+    <span style="font-size:14px;">- Scrapbook</span>
+</a><br>
 
 
 <!-- \- [Daily](https://pozuhtuhv.github.io/daily) -->
