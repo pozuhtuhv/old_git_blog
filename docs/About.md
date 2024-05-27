@@ -59,6 +59,7 @@ permalink: 'about'
 1. 데이터 시각화
   - 데이터 수집 및 고도화
   - Google Looker, 태블로 리포트 시각화 구현
+  - Streamlit, ploty 리얼타임 차트 구현
 2. Python 데이터베이스 관리 / 업무 효율화
   - MySQL, Fast API 사내 데이터베이스 API 관리 기획/개발/배포
   - 루틴 업무 자동화 / 효율화, 마케팅 직원 업무시간 주당 30시간 효율 개선
