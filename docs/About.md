@@ -16,24 +16,18 @@ permalink: 'about'
 \- 클라이밍과 머신러닝에 관심이 많습니다.<br>
 {: .fs-5 }
 - - -
+
 <div style="display: flex; justify-content: space-between;">
-
 <div style="flex: 1; padding-right: 10px;">
-
 <b>Contact</b><br>
-- Email : <a href = "pozuhtuhv@gmail.com">pozuhtuhv@gmail.com</a><br>
+- Email : <a href = "mailto:pozuhtuhv@gmail.com">pozuhtuhv@gmail.com</a><br>
 - Instagram : <a href = "https://instagram.com/pozuhtuhv">https://instagram.com/pozuhtuhv</a>
-
 </div>
-
 <div style="flex: 1; padding-left: 10px;">
-
 <b>Links</b><br>
 - GitHub : <a href = "https://github.com/pozuhtuhv">https://github.com/pozuhtuhv</a><br>
 - Blog : <a href = "https://pozutuhv.github.io">https://pozutuhv.github.io</a>
-
 </div>
-
 </div>
 
 - - -
