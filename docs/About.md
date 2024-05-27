@@ -20,7 +20,7 @@ permalink: 'about'
 
 <div style="flex: 1; padding-right: 10px;">
 
-### Contact
+<b>Contact</b><br>
 - Email : <pozuhtuhv@gmail.com><br>
 - Instagram : <https://instagram.com/pozuhtuhv>
 
@@ -28,7 +28,7 @@ permalink: 'about'
 
 <div style="flex: 1; padding-left: 10px;">
 
-### Links
+<b>Links</b><br>
 - GitHub : <https://github.com/pozuhtuhv><br>
 - Blog : <https://pozutuhv.github.io>
 
