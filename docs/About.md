@@ -16,20 +16,26 @@ permalink: 'about'
 \- 클라이밍과 머신러닝에 관심이 많습니다.<br>
 {: .fs-5 }
 - - -
-#### Contact
-\- Email : <pozuhtuhv@gmail.com><br>
-\- instagram : <https://instagram.com/pozuhtuhv>
-- - -
-#### Links
-\- GitHub : <https://github.com/pozuhtuhv><br>
-\- Blog : <https://pozuhtuhv.github.io>
-- - -
-#### Interest
-\- Data Engineering<br>
-\- Data Analytics<br>
-\- Data Visualization<br>
-\- Automation<br>
-\- improve, productivity (생상선과 효율성)
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 10px;">
+
+### Contact
+- Email : <pozuhtuhv@gmail.com><br>
+- Instagram : <https://instagram.com/pozuhtuhv>
+
+</div>
+
+<div style="flex: 1; padding-left: 10px;">
+
+### Links
+- GitHub : <https://github.com/pozuhtuhv><br>
+- Blog : <https://pozutuhv.github.io>
+
+</div>
+
+</div>
+
 - - -
 ### Skills
 \- Programming Languages<br>
@@ -79,6 +85,13 @@ permalink: 'about'
 #### Education
 \- Pytorch 과정 (진행중)<br>
 \- Yolov8 이미지 라벨링
+- - -
+#### Interest
+\- Data Engineering<br>
+\- Data Analytics<br>
+\- Data Visualization<br>
+\- Automation<br>
+\- improve, productivity (생상선과 효율성)
 - - -
 #### ETC
 \- 컴퓨터 활용능력 2급<br>
