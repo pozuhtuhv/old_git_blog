@@ -49,7 +49,6 @@ permalink: 'about'
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 </div>
-<br>
 
 - - -
 ### Work Experience
