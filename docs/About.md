@@ -10,7 +10,7 @@ permalink: 'about'
 # Hyeonseok Cho
 \- 안녕하세요! 2년차 데이터 개발자 <span style="text-shadow:0 0 10px #1d9bf0;color:#1d9bf0">조현석</span>입니다.<br>
 \- 개발을 데이터 분석에 응용하며, 더욱 더 의미있는, 가치있는 데이터 찾기에 푹 빠져 있습니다.<br>
-\- 무엇보다도 꾸준함과 기록의 가치를 알기에 기술블로그를 운영을 하고있습니다. <br>
+\- 무엇보다도 기록의 가치를 알기에 기술블로그를 운영을 하고있습니다. <br>
 \- Code Review를 통해 Clean Code에 대한 고민을 생활화합니다.<br>
 \- 클라이밍과 머신러닝에 관심이 많습니다.<br>
 {: .fs-5 }
@@ -48,6 +48,7 @@ permalink: 'about'
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+<br>
 </div>
 
 - - -
@@ -75,17 +76,6 @@ permalink: 'about'
 2. 창고 이동 최적화 제품별 로케이션 지정
 ```
 - - -
-#### Education
-\- Pytorch 과정 (진행중)<br>
-\- Yolov8 이미지 라벨링
-- - -
-#### Interest
-\- Data Engineering<br>
-\- Data Analytics<br>
-\- Data Visualization<br>
-\- Automation<br>
-\- improve, productivity (생상선과 효율성)
-- - -
 #### ETC
 \- 컴퓨터 활용능력 2급<br>
 \- 2종 보통운전면허<br>
@@ -93,3 +83,8 @@ permalink: 'about'
 \- 유소년 스포츠지도사<br>
 \- 생활스포츠지도사 2급<br>
 \- 3톤미만 지게차 운용<br>
+- - -
+#### Interest
+\- 자동화<br>
+\- 생상선과 효율성<br>
+\- Clean Code
