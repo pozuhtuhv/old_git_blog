@@ -21,16 +21,16 @@ permalink: 'about'
 <div style="flex: 1; padding-right: 10px;">
 
 <b>Contact</b><br>
-- Email : <pozuhtuhv@gmail.com><br>
-- Instagram : <https://instagram.com/pozuhtuhv>
+- Email : <a href = "pozuhtuhv@gmail.com">pozuhtuhv@gmail.com</a><br>
+- Instagram : <a href = "https://instagram.com/pozuhtuhv">https://instagram.com/pozuhtuhv</a>
 
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
 
 <b>Links</b><br>
-- GitHub : <https://github.com/pozuhtuhv><br>
-- Blog : <https://pozutuhv.github.io>
+- GitHub : <a href = "https://github.com/pozuhtuhv">https://github.com/pozuhtuhv</a><br>
+- Blog : <a href = "https://pozutuhv.github.io">https://pozutuhv.github.io</a>
 
 </div>
 
