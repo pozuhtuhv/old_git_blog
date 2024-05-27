@@ -8,7 +8,6 @@ permalink: 'about'
 ---
 
 # Hyeonseok Cho
-- - -
 \- 안녕하세요! 2년차 데이터 개발자 <span style="text-shadow:0 0 10px #1d9bf0;color:#1d9bf0">조현석</span>입니다.<br>
 \- 개발을 데이터 분석에 응용하며, 더욱 더 의미있는, 가치있는 데이터 찾기에 푹 빠져 있습니다.<br>
 \- 무엇보다도 꾸준함과 기록의 가치를 알기에 기술블로그를 운영을 하고있습니다. <br>
@@ -31,26 +30,27 @@ permalink: 'about'
 </div>
 
 - - -
-### Skills
-\- Programming Languages<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) <br>
-\- Data<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)<br>
-\- Framework API<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)<br>
-\- Application<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
-![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)<br>
-\- Data Visualization<br>
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)<br>
-\- Automation<br>
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)<br>
+
+<div align="left">
+<h3>Tech Stack</h3>
+<h4>Main</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<h4>Visualization</h4>
+<img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=Looker&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+<h4>Application</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+</div>
+<br>
+
 - - -
 ### Work Experience
 #### (주) 킥더허들 / 피토틱스
