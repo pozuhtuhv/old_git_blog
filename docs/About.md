@@ -7,7 +7,7 @@ last_modified_date: 2024-04-07
 permalink: 'about'
 ---
 
-# Hyeonseok Cho
+<!-- # Hyeonseok Cho
 \- 안녕하세요! 2년차 데이터 개발자 <span style="text-shadow:0 0 10px #1d9bf0;color:#1d9bf0">조현석</span>입니다.<br>
 \- 개발을 데이터 분석에 응용하며, 더욱 더 의미있는, 가치있는 데이터 찾기에 푹 빠져 있습니다.<br>
 \- 문제를 인식하고 스스로 해결해나가는 방식을 좋아하여 필요하다면 직접 적용 및 개발을 진행합니다.<br>
@@ -92,4 +92,4 @@ permalink: 'about'
 #### Interest
 \- 자동화<br>
 \- 생상선과 효율성<br>
-\- Clean Code
+\- Clean Code -->
