@@ -30,6 +30,7 @@ published : true
     ![docs](/img/git-2.2.png)<br>
 
 3. Workflow Permissions
+
     ![docs](/img/git-2.3.png)<br>
 
     Read and write permissions: 워크플로우가 레포지토리의 모든 범위에서 읽기 및 쓰기 권한을 가지도록 설정.<br>
