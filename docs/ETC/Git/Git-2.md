@@ -1,5 +1,5 @@
 ---
-title: 2024-08-22 github actions workflow permission
+title: 2024-08-22 워크플로우 권한.
 layout: default
 parent: Git
 grand_parent: ETC
