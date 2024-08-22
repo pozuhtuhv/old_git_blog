@@ -16,7 +16,6 @@ tags: []
 {:toc}
 ---
 ## Noto Sans KR 폰트 적용
-<br>
 
 #### 1. head.html 추가
 
