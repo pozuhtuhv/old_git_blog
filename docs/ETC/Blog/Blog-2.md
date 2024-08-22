@@ -16,7 +16,6 @@ published : true
 {:toc}
 ---
 ## Git Bash -> Repo upload
-<br>
 
 #### 1. Github에 NEW 리포지토리 git repo url 확인
 
