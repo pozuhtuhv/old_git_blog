@@ -1,5 +1,5 @@
 ---
-title: 2024-04-08 깃블로그.
+title: 20240408 깃블로그.
 layout: default
 parent: Daily
 grand_parent: ETC

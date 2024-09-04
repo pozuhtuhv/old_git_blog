@@ -1,5 +1,5 @@
 ---
-title: 2024-04-11 Django API
+title: 20240411 Django API
 layout: default
 parent: Framework
 nav_order : 7

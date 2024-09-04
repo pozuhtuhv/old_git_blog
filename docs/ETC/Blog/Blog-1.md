@@ -1,5 +1,5 @@
 ---
-title: 2024-04-10 JTD Font Set.
+title: 20240410 JTD Font Set.
 layout: default
 parent: Blog
 grand_parent: ETC

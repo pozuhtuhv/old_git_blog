@@ -1,5 +1,5 @@
 ---
-title: 2024-05-08 Git repo upload.
+title: 20240508 Git repo upload.
 layout: default
 parent: Blog
 grand_parent: ETC

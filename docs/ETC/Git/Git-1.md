@@ -1,5 +1,5 @@
 ---
-title: 2024-05-22 깃오류.
+title: 20240522 깃오류.
 layout: default
 parent: Git
 grand_parent: ETC

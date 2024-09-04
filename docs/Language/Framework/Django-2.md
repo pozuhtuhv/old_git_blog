@@ -1,5 +1,5 @@
 ---
-title: 2024-05-18 Django Requests
+title: 20240518 Django Requests
 layout: default
 parent: Framework
 nav_order : 7.1
