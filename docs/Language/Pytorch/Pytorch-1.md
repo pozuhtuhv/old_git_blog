@@ -1,5 +1,5 @@
 ---
-title: 2024-04-11 Nomal Set
+title: 20240411 Nomal Set
 layout: default
 parent: Pytorch
 nav_order : 5.1
