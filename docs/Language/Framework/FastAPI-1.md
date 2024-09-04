@@ -1,5 +1,5 @@
 ---
-title: 2024-05-09 FastAPI Nomal Set
+title: 2024-05-09 FastAPI
 layout: default
 parent: Framework
 nav_order : 8
