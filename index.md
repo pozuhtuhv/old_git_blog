@@ -21,4 +21,4 @@ ETC - /docs/ETC - ETC Main Category
 Daily - /docs/ETC/Daily - Daily Category
 ```
 
-<img alt="Hits" style="width:90px; height:25px;" src="https://hits.sh/pozuhtuhv.github.io.svg?view=today-total&style=for-the-badge"/>
+<div align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpozuhtuhv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=This+Page+hits&edge_flat=false"/> </div>
