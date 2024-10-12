@@ -17,7 +17,6 @@ published : true
 {:toc}
 ---
 ## Python .env 파일 환경변수
-<br>
 
 `Python .env 파일 환경변수`<br>
 
@@ -44,7 +43,7 @@ user = os.getenv('USER')
 
 <br>
 
-#### 꽤나 자주쓰일만한 자료
+#### 부가설명
 
 ```html
 토큰 데이터나 고정해놔야할 값이 있으면 따로 작성해서 혼란없게 따로 빼놓는 방법
