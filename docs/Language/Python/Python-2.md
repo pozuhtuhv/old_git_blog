@@ -1,5 +1,5 @@
 ---
-title: python .env
+title: 환경변수 .env
 layout: default
 parent: Python
 nav_order : 4.11
@@ -16,9 +16,9 @@ published : true
 1. TOC
 {:toc}
 ---
-## Python .env 파일 환경변수
+## .env 파일 환경변수
 
-`Python .env 파일 환경변수`<br>
+`.env 파일 환경변수`<br>
 
 
 ### 모듈 설치
