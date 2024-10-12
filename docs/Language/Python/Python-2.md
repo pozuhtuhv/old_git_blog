@@ -39,7 +39,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-user = os.getenv('ABC')
+user = os.getenv('USER')
 ```
 
 <br>
