@@ -4,8 +4,8 @@ layout: default
 parent: Python
 nav_order : 4.11
 grand_parent: Language
-published_date: 2024-04-11
-last_modified_date: 2024-04-11
+published_date: 2024-10-12
+last_modified_date: 2024-10-12
 permalink: 'python-2'
 keywords: ["module"]
 published : true
@@ -16,7 +16,7 @@ published : true
 1. TOC
 {:toc}
 ---
-## .env 파일 환경변수
+## 환경변수 .env
 
 `.env 파일 환경변수`<br>
 
