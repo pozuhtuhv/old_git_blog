@@ -18,7 +18,7 @@ published : true
 
 ## github actions workflow permission
 
-#### 쓰기 권한 설정 하기
+### 쓰기 권한 설정 하기
 <br>
 
 1. Settings 페이지

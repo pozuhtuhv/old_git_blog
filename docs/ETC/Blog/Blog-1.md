@@ -17,7 +17,7 @@ tags: []
 ---
 ## Noto Sans KR 폰트 적용
 
-#### 1. head.html 추가
+### 1. head.html 추가
 
 path : _includes/head.html<br>
 line : 16 ~
@@ -30,7 +30,7 @@ line : 16 ~
 
 <br>
 
-#### 2. custom.scss 추가
+### 2. custom.scss 추가
 
 path : _sass/custom/custom.scss<br>
 line : 0 ~

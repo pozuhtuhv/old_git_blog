@@ -16,7 +16,7 @@ published : true
 {:toc}
 ---
 
-## fatal: protocol 'https' is not supported
+### fatal: protocol 'https' is not supported
 <br>
 git bash 를 이용하다보면 나오는 그것<br>
 '프로토콜 지원을 안함'<br>
@@ -27,7 +27,7 @@ bash 창에서는 'https' 앞에 문자는 표시 되지 않았던 것<br>
 단순한 방법으로는 메모장에 붙여넣기하고 그걸 다시 복사<br>
 이어서 명령어 진행하면 정상적이게 진행된다.<br>
 
-## Git Bash의 복사, 붙여넣기단축키
+### Git Bash의 복사, 붙여넣기단축키
 
 - 복사하기 (Copy) : <br>
 Ctrl + Insert
