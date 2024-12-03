@@ -16,6 +16,12 @@ published : true
 {:toc}
 ---
 
+<!-- 글의 제목은 ##
+    나머지 큰 제목은 ###
+    이후 나머지는 4개이상 -->
+
+## Git Error
+
 ### fatal: protocol 'https' is not supported
 <br>
 git bash 를 이용하다보면 나오는 그것<br>

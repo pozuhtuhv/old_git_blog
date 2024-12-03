@@ -16,6 +16,11 @@ published : true
 1. TOC
 {:toc}
 ---
+
+<!-- 글의 제목은 ##
+    나머지 큰 제목은 ###
+    이후 나머지는 4개이상 -->
+
 ## Django 기본 API
 <br>
 
@@ -43,6 +48,7 @@ else:
 ### 2. 데이터 조희
 
 1. 전체 데이터 조회
+
 ```python
 url = f'http://localhost:8000/api/board/'
 
@@ -54,7 +60,8 @@ else:
     print('Failed to retrieve board detail:', response.status_code)
 ```
 
-2. 선택 데이터 조회
+1. 선택 데이터 조회
+ 
 ```python
 post_id = 1  # 조회할 데이터의 ID
 url = f'http://localhost:8000/api/board/{post_id}/'

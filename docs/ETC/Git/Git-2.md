@@ -16,9 +16,13 @@ published : true
 {:toc}
 ---
 
-## github actions workflow permission
+<!-- 글의 제목은 ##
+    나머지 큰 제목은 ###
+    이후 나머지는 4개이상 -->
 
-### 쓰기 권한 설정 하기
+## Github Actions Workflow Permission
+
+### 권한 설정 하기
 <br>
 
 1. Settings 페이지
