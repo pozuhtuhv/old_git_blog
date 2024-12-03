@@ -8,13 +8,14 @@ permalink: /
 
 # Welcome to My GitBlog
 
-```python
+```bash
 Just the doc theme
 Home - /index.md - This Page
 favicon.ico - /favicon.ico - favicon
 About.md - /docs/About.md - My information
 Language - /docs/Language - Language Main Category
 Python - /docs/Language/python - Python Category
+C# - /docs/Language/C# - C# Category
 Pytorch - /docs/Language/pytorch - Pytorch Category
 FrameWork - /docs/Language/framework - Framework Category
 ETC - /docs/ETC - ETC Main Category
