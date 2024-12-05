@@ -51,8 +51,8 @@ exclude:
  # theme test code
    - fixtures/
 
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/computersolo.jpg"
+# 로고 경로 (활성화 할려면 주석 제거)
+# logo: "/assets/images/computersolo.jpg"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -129,13 +129,14 @@ liquid:
 # Footer content
 # appears at the bottom of every page's main content
 
-# Back to top link
+# 위로가기 기능
 back_to_top: true
 back_to_top_text: "TOP"
 
+# footer 내용
 # footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by Netlify.</a>"
 
-# Footer last edited timestamp
+# Footer 타임스탬프 기능
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%Y-%m-%d" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
@@ -190,6 +191,6 @@ compress_html:
   endings: all
   startings: []
   blanklines: false
-  profile: false
+  profile: true # true, false
   # ignore:
   #   envs: all
