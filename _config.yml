@@ -183,7 +183,7 @@ plugins:
 kramdown:
   syntax_highlighter_opts:
     block:
-      line_numbers: false
+      line_numbers: true # true, false
 
 compress_html:
   clippings: all
@@ -191,6 +191,6 @@ compress_html:
   endings: all
   startings: []
   blanklines: false
-  profile: true # true, false
+  profile: false # true, false
   # ignore:
   #   envs: all
