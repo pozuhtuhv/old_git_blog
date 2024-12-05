@@ -6,3 +6,13 @@ p, a, h1, h2, h3, h4, h5, h6 {
     color: #959396;
     font-size: smaller;
 }
+
+@media (min-width: 55rem) {
+    .nav-list .nav-list-item .nav-list-link {
+        min-height: 2rem;
+        line-height: 1.5rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        font-size: smaller;
+    }
+}
