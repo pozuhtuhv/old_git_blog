@@ -73,10 +73,10 @@ search:
   # Set the search token separator
   # Default: /[\s\-/]+/
   # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s\-/가-힣]+/
+  tokenizer_separator: /[\s\-/]+/
   # Display the relative url in search results
   # Supports true (default) or false
-  rel_url: true
+  rel_url: false
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
