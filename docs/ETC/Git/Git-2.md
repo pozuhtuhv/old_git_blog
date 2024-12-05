@@ -22,7 +22,7 @@ published : true
 
 ## Github Actions Workflow Permission
 
-### 권한 설정 하기
+### 1. 권한 설정 하기
 <br>
 
 1. Settings 페이지
