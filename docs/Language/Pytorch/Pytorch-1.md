@@ -2,7 +2,7 @@
 title: 20240411 Nomal Set
 layout: default
 parent: Pytorch
-nav_order : 5.1
+nav_order : 99.1
 grand_parent: Language
 published_date: 2024-04-11
 last_modified_date: 2024-04-11

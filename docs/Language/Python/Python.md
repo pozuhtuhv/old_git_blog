@@ -7,6 +7,7 @@ nav_order : 4
 published_date: 2024-04-07
 last_modified_date: 2024-04-07
 permalink: 'python'
+published : true
 ---
 
 # Python

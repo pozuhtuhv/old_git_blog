@@ -1,12 +1,12 @@
 ---
 title: 20240518 Django Requests
 layout: default
-parent: Framework
-nav_order : 7.1
-grand_parent: Language
+grand_parent: Framework
+parent: FPython
+permalink: 'fpython-2'
+nav_order : 7.11
 published_date: 2024-05-18
 last_modified_date: 2024-05-23
-permalink: 'django-2'
 keywords: ["django","API"]
 published : true
 ---
