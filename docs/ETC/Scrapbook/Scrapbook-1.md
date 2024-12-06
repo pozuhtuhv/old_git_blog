@@ -1,11 +1,12 @@
 ---
 title: Git commit log 초기화.
 layout: default
-parent: Scrapbook
 grand_parent: ETC
+parent: Scrapbook
+permalink: 'scrapbook-1'
+nav_order : 12.1
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
-permalink: 'scrapbook-1'
 keywords: ["git", "commit"]
 published : true
 ---

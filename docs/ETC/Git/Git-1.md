@@ -1,11 +1,12 @@
 ---
 title: 20240522 깃오류.
 layout: default
-parent: Git
 grand_parent: ETC
+parent: Git
+permalink: 'git-1'
+nav_order : 11.1
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
-permalink: 'git-1'
 keywords: ["error"]
 published : true
 ---

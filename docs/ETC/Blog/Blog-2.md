@@ -1,11 +1,12 @@
 ---
 title: 20240508 Git repo upload.
 layout: default
-parent: Blog
 grand_parent: ETC
+parent: Blog
+permalink: 'blog-2'
+nav_order : 9.11
 published_date: 2024-05-08
 last_modified_date: 2024-05-08
-permalink: 'blog-2'
 keywords: ["gitupload"]
 published : true
 ---

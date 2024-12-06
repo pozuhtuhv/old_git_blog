@@ -3,7 +3,7 @@ title: Blog
 layout: default
 parent: ETC
 has_children: true
-nav_order : 6
+nav_order : 9
 published_date: 2024-04-10
 last_modified_date: 2024-04-10
 permalink: 'blog'

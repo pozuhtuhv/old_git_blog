@@ -1,13 +1,14 @@
 ---
 title: 20240410 JTD Font Set.
 layout: default
-parent: Blog
 grand_parent: ETC
+parent: Blog
+permalink: 'blog-1'
+nav_order : 9.1
 published_date: 2024-04-10
 last_modified_date: 2024-04-10
-permalink: 'blog-1'
 keywords: ["gitblog","gitblogfont"]
-tags: []
+published : true
 ---
 ## Table of contents
 {: .no_toc .text-delta }

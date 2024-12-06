@@ -8,7 +8,7 @@ published_date: 2024-04-11
 last_modified_date: 2024-04-11
 permalink: 'pytorch-1'
 keywords: ["Pytorch"]
-published : true
+published : false
 ---
 ## Table of contents
 {: .no_toc .text-delta }
