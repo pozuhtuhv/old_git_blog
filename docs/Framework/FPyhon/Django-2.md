@@ -25,6 +25,7 @@ published : true
 <br>
 
 ### 0. 소개
+관련글 : <a href = 'https://pozuhtuhv.github.io/fpython-1'>Django 기본 구축하기</a><br>
 이전 Django 데이터에서 진행했던 기본API 세팅의 Requests 의 코드를 작성하는 글<br>
 
 `import requests`
