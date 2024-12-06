@@ -2,6 +2,13 @@ p, a, h1, h2, h3, h4, h5, h6 {
     font-family: "Noto Sans KR";
 }
 
+// 사이드바 넓이
+@media (min-width: 66.5rem) {
+    .site-nav, .site-header, .site-footer {
+        width: 20rem;
+    }
+}
+
 .nav-list .nav-list-item>.nav-list .nav-list-item .nav-list-link {
     color: #959396;
     font-size: smaller;
