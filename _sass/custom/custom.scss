@@ -25,18 +25,18 @@ p, a, h1, h2, h3, h4, h5, h6 {
 }
 
 // 사이드바 링크 색
-.nav-list .nav-list-link.external:nth-of-type(1) {
+.nav-list .nav-list-item .nav-list-link.external:nth-of-type(1) {
     color: #000000;
   }
   
-  .nav-list .nav-list-link.external:nth-of-type(2) {
-    color: #008f76;
-  }
-  
-  .nav-list .nav-list-link.external:nth-of-type(3) {
-    color: #f54;
-  }
+.nav-list .nav-list-item .nav-list-link.external:nth-of-type(2) {
+  color: #008f76;
+}
 
-  .nav-list .nav-list-link.external:nth-of-type(4) {
-    color: #000000;
-  }
+.nav-list .nav-list-item .nav-list-link.external:nth-of-type(3) {
+  color: #f54;
+}
+
+.nav-list .nav-list-item .nav-list-link.external:nth-of-type(4) {
+  color: #000000;
+}
