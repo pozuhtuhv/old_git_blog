@@ -119,9 +119,13 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: GitHub
     url: https://github.com/pozuhtuhv
-  - title: instagram
-    url: https://instagram.com/pozuhtuhv/
-    
+  - title: Naver
+    url: https://blog.naver.com/pozuhtuhv
+  - title: Tistory
+    url: https://pozuhtuhv.tistory.com
+  - title: Instagram
+    url: https://instagram.com/pozuhtuhv
+
 liquid:
    error_mode: strict
    strict_filters: true
