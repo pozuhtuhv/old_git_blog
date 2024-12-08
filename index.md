@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to My GitBlog
 
-```mathematica
+```bash
 Home
 ├── Language - /docs/Language
 │   ├── Python - /docs/Language/Python - Python Basic Code
