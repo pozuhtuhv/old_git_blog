@@ -4,7 +4,7 @@ layout: default
 grand_parent: Framework
 parent: FPython
 permalink: 'fpython-3'
-nav_order : 7.111
+nav_order : 7.1111
 published_date: 2024-05-09
 last_modified_date: 2024-05-09
 keywords: ["fastAPI","API"]
