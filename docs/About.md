@@ -19,7 +19,7 @@ permalink: 'about'
 
 <div align="center">
 
-## My About
+<h3>My About</h3>
 포장되지 않는 간결함<br>
 minimal: less is more.<br>
 Simple is Best.<br>
