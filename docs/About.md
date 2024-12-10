@@ -6,20 +6,11 @@ published_date: 2024-04-07
 last_modified_date: 2024-04-07
 permalink: 'about'
 ---
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
----
-
 <!-- 글의 제목은 ##
     나머지 큰 제목은 ###
     이후 나머지는 4개이상 -->
 
 <div align="center">
-
-<h3>My About</h3>
 포장되지 않는 간결함<br>
 minimal: less is more.<br>
 Simple is Best.<br>
