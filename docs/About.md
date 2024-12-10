@@ -6,13 +6,31 @@ published_date: 2024-04-07
 last_modified_date: 2024-04-07
 permalink: 'about'
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---
+
+<!-- 글의 제목은 ##
+    나머지 큰 제목은 ###
+    이후 나머지는 4개이상 -->
+
+<div align="center">
+
+## My About
+포장되지 않는 간결함<br>
+minimal: less is more.<br>
+Simple is Best.<br>
+<div>
 
 <!-- # Hyeonseok Cho
-\- 안녕하세요! 2년차 데이터 개발자 <span style="text-shadow:0 0 10px #1d9bf0;color:#1d9bf0">조현석</span>입니다.<br>
+\- 안녕하세요! 데이터 개발자 <span style="text-shadow:0 0 10px #1d9bf0;color:#1d9bf0">조현석</span>입니다.<br>
 \- 개발을 <span style="font-weight:600;background:rgba(36, 61, 48, 1)">데이터 분석</span>에 응용하며, 더욱 더 의미있는, 가치있는 데이터 찾기에 푹 빠져 있습니다.<br>
 \- 문제를 인식하고 <span style="font-weight:600;background:rgba(36, 61, 48, 1)">스스로 해결해나가는 방식</span>을 좋아하여 필요하다면 <span style="font-weight:600;background:rgba(36, 61, 48, 1)">직접 적용 및 개발</span>을 진행합니다.<br>
-\- <span style="font-weight:600;background:rgba(36, 61, 48, 1)">현재 주어진 리소스 내에서 최선의 해결책을 찾고 적용하는 것을 목표로 합니다.</span><br>
-\- 사용자분석을 통해 사용자들에게 더 나은 경험을 위해 고민합니다.<br>
+\- <span style="font-weight:600;background:rgba(36, 61, 48, 1)">주어진 리소스 내에서 최선의 해결책을 찾고 적용하는 것을 목표로 합니다.</span><br>
+\- 분석을 통해 사용자들에게 더 나은 경험을 위해 고민합니다.<br>
 {: .fs-5 }
 - - -
 
