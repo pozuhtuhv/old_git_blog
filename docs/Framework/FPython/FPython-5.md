@@ -1,12 +1,12 @@
 ---
-title: 환경변수 .env
+title: 20241012 변수.env
 layout: default
-parent: Python
-nav_order : 4.11
 grand_parent: Language
+parent: FPython
+permalink: 'fpython-5'
+nav_order : 7.11111
 published_date: 2024-10-12
 last_modified_date: 2024-10-12
-permalink: 'python-2'
 keywords: ["module"]
 published : true
 ---
@@ -21,9 +21,9 @@ published : true
     나머지 큰 제목은 ###
     이후 나머지는 4개이상 -->
 
-## 환경변수 .env
+## 변수 .env
 
-`.env 파일 환경변수`<br>
+`.env 파일 변수`<br>
 
 
 ### 모듈 설치
@@ -51,5 +51,5 @@ user = os.getenv('USER')
 ### 부가설명
 
 ```html
-토큰 데이터나 고정해놔야할 값이 있으면 따로 작성해서 혼란없게 따로 빼놓는 방법
+토큰 데이터나 고정값을 변수로 적용해놓는 방법
 ```

@@ -2,7 +2,7 @@
 title: FPython
 layout: default
 parent: Framework
-permalink: 'FPyhon'
+permalink: 'FPython'
 has_children: true
 nav_order : 7
 published_date: 2024-12-03
