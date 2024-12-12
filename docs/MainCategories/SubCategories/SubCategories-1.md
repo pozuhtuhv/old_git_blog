@@ -1,5 +1,5 @@
 ---
-title: 20240411 Django API
+title: 20240411 Title
 layout: default
 grand_parent: MainCategories
 parent: SubCategories
