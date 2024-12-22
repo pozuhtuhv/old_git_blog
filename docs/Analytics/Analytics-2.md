@@ -1,7 +1,7 @@
 ---
 title: Analytics
 layout: default
-permalink: 'analytics-1'
+permalink: 'analytics-2'
 nav_order: 8
 has_children: false
 has_toc: false
@@ -12,4 +12,4 @@ published : true
 
 # Analytics
 
-`Analytics-1`<br>
+`Analytics-2`<br>
