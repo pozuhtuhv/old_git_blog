@@ -2,7 +2,7 @@
 title: Analytics
 layout: default
 permalink: 'analytics'
-nav_order: 8
+nav_order: 8.1
 has_children: true
 has_toc: false
 published_date: 2024-12-22
