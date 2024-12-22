@@ -1,12 +1,12 @@
 ---
 title: Analytics
 layout: default
-permalink: 'analytics'
-nav_order: 8.1
+parent: Analytics
 has_children: true
-has_toc: false
+nav_order: 8
 published_date: 2024-12-22
 last_modified_date: 2024-12-22
+permalink: 'analytics'
 published: true
 ---
 
