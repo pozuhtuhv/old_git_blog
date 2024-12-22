@@ -1,12 +1,13 @@
 ---
 title: ETC
 layout: default
+permalink: 'etc'
+nav_order: 8
 has_children: true
 has_toc: false
 published_date: 2024-04-08
 last_modified_date: 2024-04-08
-nav_order : 8
-permalink: 'etc'
+published: true
 ---
 
 ## ETC List

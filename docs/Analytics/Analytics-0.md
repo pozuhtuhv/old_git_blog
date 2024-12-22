@@ -1,15 +1,15 @@
 ---
 title: Analytics
 layout: default
-permalink: 'analytics-2'
+permalink: 'analytics'
 nav_order: 8
-has_children: false
+has_children: true
 has_toc: false
 published_date: 2024-12-22
 last_modified_date: 2024-12-22
-published : true
+published: true
 ---
 
 # Analytics
 
-`Analytics-2`<br>
+`Analytics Main`<br>
