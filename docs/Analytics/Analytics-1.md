@@ -1,6 +1,7 @@
 ---
 title: Analytics
 layout: default
+parent: Analytics
 permalink: 'analytics-1'
 nav_order: 8
 has_children: false
