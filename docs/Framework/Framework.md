@@ -2,7 +2,7 @@
 title: Framework
 layout: default
 permalink: 'framework'
-nav_order : 6
+nav_order: 6
 has_children: true
 has_toc: false
 published_date: 2024-04-07

@@ -2,7 +2,7 @@
 title: MainCategories
 layout: default
 permalink: 'MainCategories'
-nav_order : 6
+nav_order: 8
 has_children: true
 has_toc: false
 published_date: 2024-04-07

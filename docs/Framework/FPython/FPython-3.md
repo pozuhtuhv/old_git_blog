@@ -4,11 +4,11 @@ layout: default
 grand_parent: Framework
 parent: FPython
 permalink: 'fpython-3'
-nav_order : 7.111
+nav_order: 7.111
 published_date: 2024-05-18
 last_modified_date: 2024-05-23
 keywords: ["django","API"]
-published : true
+published: true
 ---
 ## Table of contents
 {: .no_toc .text-delta }

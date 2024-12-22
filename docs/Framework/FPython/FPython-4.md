@@ -4,11 +4,11 @@ layout: default
 grand_parent: Framework
 parent: FPython
 permalink: 'fpython-4'
-nav_order : 7.1111
+nav_order: 7.1111
 published_date: 2024-05-09
 last_modified_date: 2024-05-09
 keywords: ["fastAPI","API"]
-published : true
+published: true
 ---
 ## Table of contents
 {: .no_toc .text-delta }

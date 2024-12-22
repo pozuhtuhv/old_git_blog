@@ -4,11 +4,11 @@ layout: default
 grand_parent: Framework
 parent: FPython
 permalink: 'fpython-1'
-nav_order : 7.1
+nav_order: 7.1
 published_date: 2024-03-05
 last_modified_date: 2024-03-05
 keywords: ["Yolo"]
-published : false
+published: false
 ---
 ## Table of contents
 {: .no_toc .text-delta }

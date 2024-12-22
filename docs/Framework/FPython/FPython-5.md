@@ -4,11 +4,11 @@ layout: default
 grand_parent: Language
 parent: FPython
 permalink: 'fpython-5'
-nav_order : 7.11111
+nav_order: 7.11111
 published_date: 2024-10-12
 last_modified_date: 2024-10-12
 keywords: ["module"]
-published : true
+published: true
 ---
 ## Table of contents
 {: .no_toc .text-delta }
