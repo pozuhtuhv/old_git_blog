@@ -11,10 +11,11 @@ permalink: /
 ```bash
 Home
 ├── Language - /docs/Language
-│   ├── Python - /docs/Language/Python - Python Basic Code
-│   └── C# - /docs/Language/C# - C# Basic Code
+│   ├── Python - /docs/Language/Python - Python Base Code
+│   └── C# - /docs/Language/C# - C# Base Code
 ├── Framework - /docs/Framework
 │   └── FPython - /docs/Framework/FPython - Python Framework Code
+├── Analytics - /docs/Analytics - Analytics Study
 └── ETC - /docs/ETC
     ├── Blog - /docs/ETC/Blog - Github Blog Category
     ├── Daily - /docs/ETC/Daily - My Life Category
