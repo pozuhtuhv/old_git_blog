@@ -186,6 +186,8 @@ plugins:
 
 sitemap:
   layout: sitemap.xml
+  changefreq: "weekly"
+  priority: 0.5
   
 # Jekyll 사이트맵 폴더 경로 테스트
 collections:
