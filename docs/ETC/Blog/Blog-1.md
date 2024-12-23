@@ -22,6 +22,7 @@ published : true
     이후 나머지는 4개이상 -->
 
 ## Noto Sans KR 폰트 적용
+<br>
 
 ### 1. head.html 추가
 
