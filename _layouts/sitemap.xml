@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for doc in site.docs %}
+    {% if doc.published %}
+      <url>
+        <loc>{{ site.url }}{{ doc.url }}</loc>
+        <lastmod>{{ doc.last_modified_date | date_to_xmlschema }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+      </url>
+    {% endif %}
+  {% endfor %}
+</urlset>
