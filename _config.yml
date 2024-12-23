@@ -183,16 +183,12 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
-
-sitemap:
-  layout: sitemap.xml
-  changefreq: "weekly"
-  priority: 0.5
   
 # Jekyll 사이트맵 폴더 경로 테스트
 collections:
   docs:
     output: true
+    permalink: /:path/
 
 kramdown:
   syntax_highlighter_opts:
