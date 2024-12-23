@@ -7,7 +7,7 @@ layout: null
     {% if page.layout == "default" %}
       {% if page.published != false %}
         <url>
-          <loc>{{ site.url }}{{ page.url }}?title={{ page.title | uri_escape }}</loc>
+          <loc>{{ site.url }}{{ page.url }}?title={{ page.title }}</loc>
 
           {% if page.sitemap.last_modified_date == null %}
             <lastmod>{{ page.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
