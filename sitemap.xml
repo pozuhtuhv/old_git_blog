@@ -4,13 +4,13 @@ layout: sitemap
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for doc in site.docs %}
-    {% if doc.published != false %}
+  {% for post in site.posts %}
+    {% if post.published != false %}
       <url>
-        <loc>{{ site.url }}{{ doc.url }}</loc>
-        <lastmod>{{ doc.last_modified_date | date_to_xmlschema }}</lastmod>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        <lastmod>{{ post.last_modified_date | date_to_xmlschema }}</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.5</priority>
       </url>
     {% endif %}
   {% endfor %}
