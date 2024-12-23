@@ -178,14 +178,10 @@ callouts:
 ga_tracking: G-Z7XW12ZZES
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
-sitemap:
-  layout: sitemap.xml
-
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
-  - jekyll-sitemap
 
 # Jekyll 사이트맵 폴더 경로 테스트
 collections:

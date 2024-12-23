@@ -1,3 +1,7 @@
+---
+layout: sitemap
+---
+
 {% for doc in site.docs %}
 <url>
     <loc>{{ site.url }}{{ doc.url }}</loc>
