@@ -1,0 +1,8 @@
+{% for doc in site.docs %}
+<url>
+    <loc>{{ site.url }}{{ doc.url }}</loc>
+    <lastmod>{{ doc.last_modified_date | default: doc.date | date: "%Y-%m-%d" }}</lastmod>
+    <changefreq>{{ doc.sitemap.changefreq | default: "daily" }}</changefreq>
+    <priority>{{ doc.sitemap.priority | default: 0.5 }}</priority>
+</url>
+{% endfor %}
