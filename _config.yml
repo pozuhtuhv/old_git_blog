@@ -182,7 +182,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
-
+  - jekyll-sitemap
+  
 # Jekyll 사이트맵 폴더 경로 테스트
 collections:
   docs:
