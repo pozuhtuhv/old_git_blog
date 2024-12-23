@@ -8,10 +8,10 @@ layout: null
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
     <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    <lastmod>{{ post.lastmod | default: post.date | date_to_xmlschema }}</lastmod>
-    <changefreq>{{ post.sitemap.changefreq | default: 'weekly' }}</changefreq>
-    <priority>{{ post.sitemap.priority | default: 0.5 }}</priority>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        <lastmod>{{ post.lastmod | default: post.date | date_to_xmlschema }}</lastmod>
+        <changefreq>{{ post.sitemap.changefreq | default: 'weekly' }}</changefreq>
+        <priority>{{ post.sitemap.priority | default: 0.5 }}</priority>
     </url>
     {% endfor %}
 </urlset>
