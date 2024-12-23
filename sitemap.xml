@@ -10,12 +10,6 @@ layout: null
           <loc>{{ site.url }}{{ page.url }}</loc>
           <title>{{ page.title | xml_escape }}</title>
           <lastmod>{{ page.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
-
-          <!-- 페이지 주기 및 중요도 설정 (null 일시 0.5 아니면 데이터 가져오기) -->
-          <!-- 메타데이터 예시 -->
-          <!-- sitemap:
-            changefreq: daily
-            priority: 1.0 -->
           
           {% if page.sitemap.changefreq == null %}
             <changefreq>daily</changefreq>
