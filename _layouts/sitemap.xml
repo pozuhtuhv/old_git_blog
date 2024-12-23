@@ -1,12 +1,11 @@
----
-layout: sitemap
----
-
-{% for doc in site.docs %}
-<url>
-    <loc>{{ site.url }}{{ doc.url }}</loc>
-    <lastmod>{{ doc.last_modified_date | default: doc.date | date: "%Y-%m-%d" }}</lastmod>
-    <changefreq>{{ doc.sitemap.changefreq | default: "daily" }}</changefreq>
-    <priority>{{ doc.sitemap.priority | default: 0.5 }}</priority>
-</url>
-{% endfor %}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for doc in site.docs %}
+    <url>
+      <loc>{{ site.url }}{{ doc.url }}</loc>
+      <lastmod>{{ doc.last_modified_at | date: "%Y-%m-%d" }}</lastmod>
+      <changefreq>{{ doc.changefreq | default: site.sitemap.changefreq }}</changefreq>
+      <priority>{{ doc.priority | default: site.sitemap.priority }}</priority>
+    </url>
+  {% endfor %}
+</urlset>

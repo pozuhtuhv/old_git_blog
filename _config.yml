@@ -183,6 +183,9 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+
+sitemap:
+  layout: sitemap.xml
   
 # Jekyll 사이트맵 폴더 경로 테스트
 collections:
