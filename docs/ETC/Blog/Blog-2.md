@@ -50,7 +50,7 @@ plugins:
 
 제일 메인폴더에 **sitemap.xml 파일 생성**
 
-```xml
+```
 ---
 layout: null
 ---
