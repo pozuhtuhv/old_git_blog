@@ -8,7 +8,8 @@ layout: null
       {% if page.published != false %}
         <url>
           <loc>{{ site.url }}{{ page.url }}</loc>
-          <title>{{ page.title | xml_escape }}</title>
+          <title>{{ page.title }}</title>
+
           {% if page.sitemap.last_modified_date == null %}
             <lastmod>{{ page.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
           {% else %}
