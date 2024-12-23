@@ -7,7 +7,7 @@ nav_order: 5
 published_date: 2024-12-03
 last_modified_date: 2024-12-03
 permalink: 'C%23'
-published: true
+published: false
 ---
 
 # C#
