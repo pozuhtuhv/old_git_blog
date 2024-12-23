@@ -4,23 +4,33 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
-    {% if page.published != false %}
-      <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
+    {% if page.layout == "default" %}
+      {% if page.published != false %}
+        <url>
+          <loc>{{ site.url }}{{ page.url }}</loc>
+          <title>{{ page.title | xml_escape }}</title>
+          <lastmod>{{ page.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
 
-        {% if page.sitemap.changefreq == null %}
-          <changefreq>daily</changefreq>
-        {% else %}
-          <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        {% endif %}
+          <!-- 페이지 주기 및 중요도 설정 (null 일시 0.5 아니면 데이터 가져오기) -->
+          <!-- 메타데이터 예시 -->
+          <!-- sitemap:
+            changefreq: daily
+            priority: 1.0 -->
+          
+          {% if page.sitemap.changefreq == null %}
+            <changefreq>daily</changefreq>
+          {% else %}
+            <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+          {% endif %}
 
-        {% if page.sitemap.priority == null %}
-            <priority>0.5</priority>
-        {% else %}
-          <priority>{{ page.sitemap.priority }}</priority>
-        {% endif %}
-      </url>      
+          {% if page.sitemap.priority == null %}
+              <priority>0.5</priority>
+          {% else %}
+            <priority>{{ page.sitemap.priority }}</priority>
+          {% endif %}
+
+        </url>      
+      {% endif %}
     {% endif %}
   {% endfor %}
 </urlset>
