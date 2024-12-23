@@ -144,7 +144,6 @@ back_to_top_text: "TOP"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%Y-%m-%d" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link # true or false
 gh_edit_link_text: "Edit this page on GitHub"
@@ -184,6 +183,11 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+
+# Jekyll 사이트맵 폴더 경로 테스트
+collections:
+  docs:
+    output: true
 
 kramdown:
   syntax_highlighter_opts:
