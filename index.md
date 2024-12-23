@@ -1,9 +1,11 @@
 ---
-layout: default
 title: Home
+layout: default
+permalink: /
 nav_order: 1
 description: "description"
-permalink: /
+last_modified_date: 2024-04-06
+published : true
 ---
 
 # Welcome to My GitBlog
