@@ -33,7 +33,7 @@ published : true
 
 **_config.yml** 파일의 **'plugins: '** 부분에 '  - jekyll-sitemap' 추가
 
-```yml
+```html
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
