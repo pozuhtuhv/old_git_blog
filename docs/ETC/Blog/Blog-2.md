@@ -48,9 +48,7 @@ plugins:
 ### 2. sitemap.xml 직접 설정
 <br>
 
-제일 메인폴더에 **sitemap.xml** 파일 생성
-
-[파일내용](https://github.com/pozuhtuhv/pozuhtuhv.github.io/blob/main/sitemap.xml)
+제일 메인폴더에 sitemap.xml 파일 생성
 
 내용을 추가하고 저장<br>
 
