@@ -6,7 +6,7 @@ parent: Blog
 permalink: 'blog-2'
 nav_order : 9.11
 published_date: 2024-12-23
-last_modified_date: 2024-12-24
+last_modified_date: 2024-12-25
 keywords: ["sitemap"]
 published : true
 ---
@@ -44,15 +44,6 @@ plugins:
 ```
 
 수정했으면 커밋 후 브라우저에서 sitemap.xml 접속 후 확인
-
-### 2. sitemap.xml 직접 설정
-<br>
-
-제일 메인폴더에 sitemap.xml 파일 생성
-
-내용을 추가하고 저장<br>
-
-사용자가 커스텀도 가능하지만, 제일 기본적인 기능들만 추가하는게 낫고, [사이트맵 유효성 검사](https://products.aspose.app/html/ko/sitemap-validator)를 통해 자신의 상황에 맞게 설정하면 된다.
 
 #### 하루종일 잡기
 ```html
