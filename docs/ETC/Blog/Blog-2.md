@@ -34,13 +34,11 @@ published : true
 **_config.yml** 파일의 **'plugins: '** 부분에 '  - jekyll-sitemap' 추가
 
 ```yml
-~
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
-~
 ```
 
 수정했으면 커밋 후 브라우저에서 sitemap.xml 접속 후 확인
