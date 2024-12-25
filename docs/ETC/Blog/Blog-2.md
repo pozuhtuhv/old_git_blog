@@ -72,7 +72,7 @@ layout: null
           {% else %}
             <priority>{{ page.sitemap.priority }}</priority>
           {% endif %}
-        </url>      
+        </url>
       {% endif %}
     {% endif %}
   {% endfor %}
