@@ -6,7 +6,7 @@ parent: Blog
 permalink: 'blog-2'
 nav_order: 9.11
 published_date: 2024-12-23
-last_modified_date: 2024-12-25
+last_modified_date: 2024-12-26
 keywords: ["sitemap"]
 published: true
 ---
@@ -44,7 +44,40 @@ plugins:
 ### 2. sitemap.xml 커스텀 설정
 <br>
 
-제일 메인폴더에 `sitemap.xml` 파일 생성
+```xml
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+    {% if page.layout == "default" %}
+      {% if page.published != false %}
+        <url>
+          <loc>{{ site.url }}{{ page.url }}?title={{ page.title }}</loc>
+          {% if page.sitemap.last_modified_date == null %}
+            <lastmod>{{ page.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
+          {% else %}
+            <lastmod>2024-04-06</lastmod>
+          {% endif %}
+          {% if page.sitemap.changefreq == null %}
+            <changefreq>daily</changefreq>
+          {% else %}
+            <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+          {% endif %}
+          {% if page.sitemap.priority == null %}
+            <priority>0.5</priority>
+          {% else %}
+            <priority>{{ page.sitemap.priority }}</priority>
+          {% endif %}
+        </url>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</urlset>
+```
+
+제일 메인폴더에 `sitemap.xml` 파일 생성<br>
 
 사용자가 커스텀도 가능하지만, 제일 기본적인 기능들만 추가하는게 낫고, [사이트맵 유효성 검사](https://products.aspose.app/html/ko/sitemap-validator)를 통해 자신의 상황에 맞게 설정하면 된다.
 
