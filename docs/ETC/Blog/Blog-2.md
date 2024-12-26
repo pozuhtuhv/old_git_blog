@@ -43,7 +43,7 @@ published: true
 #### 하루종일 잡기
 ```html
 어떠한 구조로 정해지는지 찾는 것이 매우 어려웠다.
-코드에 보면 '{% for page in site.pages %}' 구문이 있는데, 이부분에서 'site.pages' 를 쓰는게 있고 'site.docs' 나 'site.posts' 가 있었다. 
+코드에 보면 'for page in site.pages' 구문이 있는데, 이부분에서 'site.pages' 를 쓰는게 있고 'site.docs' 나 'site.posts' 가 있었다. 
 하지만 나의 블로그의 'Just-The-Docs' 에 지정되는 구문은 'pages' 였다.
 
 생각보다 정보공유가 많이 안되어있고, 블로그마다도 적용되어 있는 구성이 달라서 그걸 찾고 적용하느라 많은 시간을 보낸거같다.
