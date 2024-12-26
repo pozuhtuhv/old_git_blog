@@ -32,7 +32,14 @@ published: true
 
 `_config.yml` 파일의 `plugins: ` 부분에 `- jekyll-sitemap` 추가
 
-![docs](assets/images/blog-2.1.png)<br>
+```yml
+  {% raw %}plugins:
+    - jekyll-seo-tag
+    - jekyll-github-metadata
+    - jekyll-include-cache
+    - jekyll-sitemap{% endraw %}
+```
+
 수정 -> 커밋 후 브라우저에서 sitemap.xml 접속 후 확인
 
 ### 2. sitemap.xml 커스텀 설정
@@ -44,8 +51,7 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% raw %}
-  {% for page in site.pages %}
+  {% raw %}{% for page in site.pages %}
     {% if page.layout == "default" %}
       {% if page.published != false %}
         <url>
@@ -68,8 +74,7 @@ layout: null
         </url>
       {% endif %}
     {% endif %}
-  {% endfor %}
-  {% endraw %}
+  {% endfor %}{% endraw %}
 </urlset>
 ```
 
@@ -79,7 +84,7 @@ layout: null
 #### 하루종일 잡기
 ```html
 어떠한 구조로 정해지는지 찾는 것이 매우 어려웠다.
-코드에 보면 'for page in site.pages' 구문이 있는데, 이부분에서 'site.pages' 를 쓰는게 있고 'site.docs' 나 'site.posts' 가 있었다. 
+코드에 보면 '{% raw %}{% for page in site.pages %}{% endraw %}' 구문이 있는데, 이부분에서 'site.pages' 를 쓰는게 있고 'site.docs' 나 'site.posts' 가 있었다. 
 하지만 나의 블로그의 'Just-The-Docs' 에 지정되는 구문은 'pages' 였다.
 
 생각보다 정보공유가 많이 안되어있고, 블로그마다도 적용되어 있는 구성이 달라서 그걸 찾고 적용하느라 많은 시간을 보낸거같다.
