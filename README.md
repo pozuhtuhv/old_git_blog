@@ -10,7 +10,7 @@
     <h5>- 한글검색기능 수정 / <a href ='https://devshjeon.github.io/12'>참고</a></h5>
     <h4>2024-12-06</h4>
     <h5>- 카테고리 분류 및 최적화 / <a href ='https://github.com/pozuhtuhv/pozuhtuhv.github.io/tree/main/docs'>참고</a></h5>
-    <h4>2024-12-23</h4>
-    <h5>- 사이트맵 세팅( ~ testing) / <a href ='https://github.com/pozuhtuhv/pozuhtuhv.github.io/blob/main/sitemap.xml'>참고</a></h5>
+    <h4>2024-12-23 ~ 2024-12-27</h4>
+    <h5>- 사이트맵 세팅 / <a href ='https://github.com/pozuhtuhv/pozuhtuhv.github.io/blob/main/sitemap.xml'>참고1</a> <a href ='https://pozuhtuhv.github.io/blog-2'>참고2 </a></h5>
   </div>
 </details>
