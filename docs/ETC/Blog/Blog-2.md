@@ -79,7 +79,8 @@ layout: null
 ```
 
 위 내용을 제일 메인폴더에 `sitemap.xml` 파일 생성<br>
-사용자가 커스텀도 가능하지만, 제일 기본적인 기능들만 추가하는게 낫고, [사이트맵 유효성 검사](https://products.aspose.app/html/ko/sitemap-validator) 를 통해 자신의 상황에 맞게 설정하면 된다.
+사용자가 커스텀도 가능하지만, 제일 기본적인 기능들만 추가하는게 낫고,<br><br>
+[사이트맵 유효성 검사](https://products.aspose.app/html/ko/sitemap-validator) 를 통해 에러를 고쳐가며 설정하면 된다.
 
 #### 하루종일 잡기
 ```html
