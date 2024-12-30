@@ -3,7 +3,7 @@ title: 20240518 Django Requests
 layout: default
 grand_parent: Framework
 parent: FPython
-permalink: 'framework/fpython-3'
+permalink: 'framework/fpython/fpython-3'
 nav_order: 7.111
 published_date: 2024-05-18
 last_modified_date: 2024-05-23

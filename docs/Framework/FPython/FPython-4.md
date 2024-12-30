@@ -3,7 +3,7 @@ title: 20240509 FastAPI
 layout: default
 grand_parent: Framework
 parent: FPython
-permalink: 'framework/fpython-4'
+permalink: 'framework/fpython/fpython-4'
 nav_order: 7.1111
 published_date: 2024-05-09
 last_modified_date: 2024-05-09

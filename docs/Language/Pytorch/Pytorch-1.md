@@ -8,7 +8,7 @@ nav_order: 5.1
 published_date: 2024-04-11
 last_modified_date: 2024-04-11
 keywords: ["Pytorch"]
-published: false
+published: true
 ---
 ## Table of contents
 {: .no_toc .text-delta }
