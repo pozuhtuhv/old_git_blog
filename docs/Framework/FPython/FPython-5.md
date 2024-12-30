@@ -3,7 +3,7 @@ title: 20241012 변수.env
 layout: default
 grand_parent: Language
 parent: FPython
-permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+permalink: 'framework/fpython-5s'
 nav_order: 7.11111
 published_date: 2024-10-12
 last_modified_date: 2024-10-12

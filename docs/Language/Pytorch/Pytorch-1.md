@@ -2,7 +2,7 @@
 title: 20240411 Nomal Set
 layout: default
 grand_parent: Language
-parent: Python
+parent: Pytorch
 permalink: 'language/pytorch/pytorch-1'
 nav_order: 5.1
 published_date: 2024-04-11

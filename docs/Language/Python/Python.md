@@ -1,7 +1,7 @@
 ---
 title: Python
 layout: default
-parent: Python
+parent: Language
 permalink: 'language/python/'
 has_children: true
 nav_order: 4
