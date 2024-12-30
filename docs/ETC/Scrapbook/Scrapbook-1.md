@@ -4,7 +4,7 @@ layout: default
 grand_parent: ETC
 parent: Scrapbook
 permalink: 'etc/scrapcbook/scrapbook-1'
-nav_order : 12.1
+nav_order : 12
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
 keywords: ["git", "commit"]

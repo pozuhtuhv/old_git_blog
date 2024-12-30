@@ -7,6 +7,7 @@ nav_order : 11
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
 permalink: 'etc/git/'
+published: true
 ---
 
 # Git

@@ -7,6 +7,7 @@ nav_order : 10
 published_date: 2024-04-08
 last_modified_date: 2024-04-08
 permalink: 'etc/daily/'
+published: true
 ---
 
 # Daily

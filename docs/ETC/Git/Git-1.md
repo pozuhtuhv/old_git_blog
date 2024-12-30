@@ -4,7 +4,7 @@ layout: default
 grand_parent: ETC
 parent: Git
 permalink: 'etc/git/git-1'
-nav_order : 11.1
+nav_order : 11
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
 keywords: ["error"]

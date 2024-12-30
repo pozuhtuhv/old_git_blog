@@ -4,7 +4,7 @@ layout: default
 grand_parent: Language
 parent: FPython
 permalink: 'framework/fpython/fpython-5'
-nav_order: 7.11111
+nav_order: 7
 published_date: 2024-10-12
 last_modified_date: 2024-10-12
 keywords: ["module"]

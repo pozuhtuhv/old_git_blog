@@ -4,7 +4,7 @@ layout: default
 grand_parent: ETC
 parent: Git
 permalink: 'etc/git/git-3'
-nav_order : 11.111
+nav_order : 11
 published_date: 2024-05-08
 last_modified_date: 2024-12-23
 keywords: ["gitupload"]
