@@ -10,25 +10,20 @@ last_modified_date: 2024-04-08
 published: true
 ---
 
-## ETC List
+## ETC
 
 ---
 
 #### List
-<a href="https://pozuhtuhv.github.io/git">
+<a href="https://pozuhtuhv.github.io/etc/git">
     <span style="font-size:14px;">- Git</span>
 </a><br>
-<a href="https://pozuhtuhv.github.io/blog">
+<a href="https://pozuhtuhv.github.io/etc/blog">
     <span style="font-size:14px;">- Blog</span>
 </a><br>
-<a href="https://pozuhtuhv.github.io/daily">
+<a href="https://pozuhtuhv.github.io/etc/daily">
     <span style="font-size:14px;">- Daily</span>
 </a><br>
-<a href="https://pozuhtuhv.github.io/scrapbook">
+<a href="https://pozuhtuhv.github.io/etc/scrapbook">
     <span style="font-size:14px;">- Scrapbook</span>
 </a><br>
-
-
-<!-- \- [Daily](https://pozuhtuhv.github.io/daily) -->
-<!-- \- [Blog](https://pozuhtuhv.github.io/blog) -->
-<!-- \- [Git](https://pozuhtuhv.github.io/git) -->

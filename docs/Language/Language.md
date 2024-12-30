@@ -17,10 +17,10 @@ published: true
 `사용하고 공부하고 있는 언어들의 리스트입니다.`
 
 ### List
-<a href="https://pozuhtuhv.github.io/python">
+<a href="https://pozuhtuhv.github.io/language/python">
     <span style="font-size:14px;">- Python</span>
 </a><br>
-<a href="https://pozuhtuhv.github.io/pytorch">
+<a href="https://pozuhtuhv.github.io/language/pytorch">
     <span style="font-size:14px;">- Pytorch (unpublished) </span>
 </a><br>
 
