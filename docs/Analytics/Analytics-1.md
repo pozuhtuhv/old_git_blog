@@ -5,11 +5,11 @@ parent: Analytics
 nav_order: 8.1
 published_date: 2024-12-22
 last_modified_date: 2024-12-22
-permalink: 'Analytics-1'
-keywords: ["Analytics"]
+permalink: 'analytics-1'
+keywords: ["Analytics"]s
 published: true
 ---
 
 # Analytics
 
-`Analytics-1`<br>
+`analytics-1`<br>
