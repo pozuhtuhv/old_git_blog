@@ -3,7 +3,7 @@ title: 20240408 깃블로그.
 layout: default
 grand_parent: ETC
 parent: Daily
-nav_order : 10
+nav_order : 10.1
 published_date: 2024-04-08
 last_modified_date: 2024-04-08
 permalink: 'etc/daily/daily-1'
