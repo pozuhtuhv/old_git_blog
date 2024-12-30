@@ -24,8 +24,8 @@ pozuhtuhv.github.io
 │ │ ├── Daily - /docs/ETC/Daily - My Life Category
 │ │ ├── Git - /docs/ETC/Git - Git Bash Category
 │ │ └── Scrapbook - /docs/ETC/Scrapbook - other blog article scrap
-│ ├── Framework - /docs/Framework
-│ │ └── FPython - /docs/Framework/FPython - Python Framework 
+│ └── Framework - /docs/Framework
+│   └── FPython - /docs/Framework/FPython - Python Framework 
 ├── 404.html - /404.html - Error Page
 ├── favicon.ico - /favicon.ico - Favicon
 ├── index.md - /index.md - Main Page
