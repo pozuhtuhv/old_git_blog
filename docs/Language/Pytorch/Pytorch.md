@@ -1,8 +1,8 @@
 ---
 title: Pytorch
 layout: default
-parent: Pytorch
-permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+parent: Language
+permalink: {{ page.parent | downcase }}'/'{{ page.url | replace: '.md', '' | downcase }}
 has_children: true
 nav_order: 5
 published_date: 2024-04-07

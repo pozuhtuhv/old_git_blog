@@ -1,7 +1,7 @@
 ---
 title: ETC
 layout: default
-permalink: '{{ page.title | downcase }}/'
+permalink: {{ page.title | downcase }}/
 nav_order: 8
 has_children: true
 has_toc: false

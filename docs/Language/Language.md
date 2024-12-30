@@ -1,7 +1,7 @@
 ---
 title: Language
 layout: default
-permalink: '{{ page.title | downcase }}/'
+permalink: {{ page.title | downcase }}/
 nav_order: 3
 has_children: true
 has_toc: false
