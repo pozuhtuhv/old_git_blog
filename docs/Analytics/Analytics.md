@@ -1,8 +1,7 @@
 ---
 title: Analytics
 layout: default
-parent: Analytics
-permalink: '{{ page.parent | downcase }}/'
+permalink: 'analytics/'
 nav_order: 8
 has_children: true
 has_toc: false
