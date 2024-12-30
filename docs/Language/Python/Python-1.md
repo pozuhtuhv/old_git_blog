@@ -3,7 +3,7 @@ title: Movie script Code review
 layout: default
 grand_parent: Language
 parent: Python
-permalink: '{{page.grand_parent | downcase }}/{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+permalink: 'language/python/python-1'
 nav_order: 4.1
 published_date: 2024-04-11
 last_modified_date: 2024-04-11

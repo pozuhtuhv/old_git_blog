@@ -2,7 +2,7 @@
 title: Pytorch
 layout: default
 parent: Language
-permalink: {{ page.parent | downcase }}'/'{{ page.url | replace: '.md', '' | downcase }}
+permalink: 'language/pytorch/'
 has_children: true
 nav_order: 5
 published_date: 2024-04-07

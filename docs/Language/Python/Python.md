@@ -2,7 +2,7 @@
 title: Python
 layout: default
 parent: Python
-permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+permalink: 'language/python/'
 has_children: true
 nav_order: 4
 published_date: 2024-04-07

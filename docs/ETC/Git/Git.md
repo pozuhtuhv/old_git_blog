@@ -6,7 +6,7 @@ has_children: true
 nav_order : 11
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
-permalink: '{{ page.parent | downcase }}/'
+permalink: 'etc/git/'
 ---
 
 # Git

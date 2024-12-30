@@ -6,7 +6,7 @@ has_children: true
 nav_order : 9
 published_date: 2024-04-10
 last_modified_date: 2024-04-10
-permalink: '{{ page.parent | downcase }}/'
+permalink: 'etc/blog/'
 ---
 
 # Blog

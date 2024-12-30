@@ -6,7 +6,7 @@ parent: Daily
 nav_order : 10.1
 published_date: 2024-04-08
 last_modified_date: 2024-04-08
-permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+permalink: 'etc/daily/daily-1'
 keywords: ["gitblog"]
 published : true
 ---

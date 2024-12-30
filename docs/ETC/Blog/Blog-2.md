@@ -3,7 +3,7 @@ title: 20241223 JTD Sitemap Setting.
 layout: default
 grand_parent: ETC
 parent: Blog
-permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+permalink: 'etc/blog/blog-2'
 nav_order: 9.11
 published_date: 2024-12-23
 last_modified_date: 2024-12-26
