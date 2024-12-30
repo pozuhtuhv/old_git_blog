@@ -6,7 +6,7 @@ has_children: true
 nav_order : 12
 published_date: 2024-05-22
 last_modified_date: 2024-05-22
-permalink: 'scrapbook'
+permalink: '{{ page.parent | downcase }}/'
 ---
 
 ## Scrapbook

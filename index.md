@@ -15,9 +15,8 @@ pozuhtuhv.github.io
 ├── docs
 │   ├── About.md - /docs/About.md
 │   ├── Language - /docs/Language
-│   │   ├── C# - /docs/Language/C# - C# Base Code - unpublished
 │   │   ├── Python - /docs/Language/Python - Python Base Code
-│   │   └── Pytorch - /docs/Language/Pytorch - Pytorch Base Code - unpublished
+│   │   └── Pytorch - /docs/Language/Pytorch - Pytorch Base Code
 │   ├── Analytics - /docs/Analytics - Analytics Study
 │   ├── ETC - /docs/ETC
 │   │   ├── Blog - /docs/ETC/Blog - Github Blog Category

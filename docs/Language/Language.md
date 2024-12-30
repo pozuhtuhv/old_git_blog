@@ -1,7 +1,7 @@
 ---
 title: Language
 layout: default
-permalink: 'language'
+permalink: '{{ page.title | downcase }}/'
 nav_order: 3
 has_children: true
 has_toc: false
@@ -19,9 +19,6 @@ published: true
 ### List
 <a href="https://pozuhtuhv.github.io/python">
     <span style="font-size:14px;">- Python</span>
-</a><br>
-<a href="https://pozuhtuhv.github.io/C%23">
-    <span style="font-size:14px;">- C# (unpublished)</span>
 </a><br>
 <a href="https://pozuhtuhv.github.io/pytorch">
     <span style="font-size:14px;">- Pytorch (unpublished) </span>

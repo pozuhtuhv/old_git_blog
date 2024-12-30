@@ -3,7 +3,7 @@ title: 20240822 워크플로우 권한.
 layout: default
 grand_parent: ETC
 parent: Git
-permalink: 'git-2'
+permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
 nav_order : 11.11
 published_date: 2024-08-22
 last_modified_date: 2024-08-22

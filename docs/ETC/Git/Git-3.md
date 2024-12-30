@@ -3,7 +3,7 @@ title: 20240508 Git repo upload.
 layout: default
 grand_parent: ETC
 parent: Git
-permalink: 'git-3'
+permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
 nav_order : 11.111
 published_date: 2024-05-08
 last_modified_date: 2024-12-23

@@ -5,8 +5,8 @@ parent: Analytics
 nav_order: 8.1
 published_date: 2024-12-22
 last_modified_date: 2024-12-22
-permalink: 'analytics-1'
-keywords: ["Analytics"]s
+permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
+keywords: ["Analytics"]
 published: true
 ---
 

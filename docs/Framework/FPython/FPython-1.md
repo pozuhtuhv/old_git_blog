@@ -3,7 +3,7 @@ title: 20240305 Yolov8 이미지라벨링
 layout: default
 grand_parent: Framework
 parent: FPython
-permalink: 'fpython-1'
+permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}ㄴ'
 nav_order: 7.1
 published_date: 2024-03-05
 last_modified_date: 2024-03-05

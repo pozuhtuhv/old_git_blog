@@ -4,7 +4,6 @@ layout: default
 permalink: 'about'
 nav_order: 2
 has_children: false
-has_toc: false
 published_date: 2024-04-07
 last_modified_date: 2024-12-22
 published : true

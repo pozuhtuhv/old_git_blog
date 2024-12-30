@@ -3,7 +3,7 @@ title: 20240518 Django Requests
 layout: default
 grand_parent: Framework
 parent: FPython
-permalink: 'fpython-3'
+permalink: '{{ page.parent | downcase }}/{{ page.url | replace: ".md", "" | downcase }}'
 nav_order: 7.111
 published_date: 2024-05-18
 last_modified_date: 2024-05-23

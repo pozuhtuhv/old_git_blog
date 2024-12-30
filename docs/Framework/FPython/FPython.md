@@ -2,7 +2,7 @@
 title: FPython
 layout: default
 parent: Framework
-permalink: 'FPython'
+permalink: '{{ page.title | downcase }}/'
 has_children: true
 nav_order: 7
 published_date: 2024-12-03
