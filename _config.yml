@@ -125,7 +125,9 @@ nav_external_links:
     url: https://pozuhtuhv.tistory.com
   - title: Instagram
     url: https://instagram.com/pozuhtuhv
-
+  - title: Sitemap
+    url: /sitemap
+    
 liquid:
    error_mode: strict
    strict_filters: true
