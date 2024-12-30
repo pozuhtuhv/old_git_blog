@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-permalink: 'about'
+permalink: 'about/'
 nav_order: 2
 has_children: false
 published_date: 2024-04-07
