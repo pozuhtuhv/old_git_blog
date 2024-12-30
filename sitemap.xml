@@ -15,18 +15,6 @@ layout: null
             <lastmod>2024-04-06</lastmod>
           {% endif %}
 
-          {% if page.sitemap.changefreq == null %}
-            <changefreq>daily</changefreq>
-          {% else %}
-            <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-          {% endif %}
-
-          {% if page.sitemap.priority == null %}
-            <priority>0.5</priority>
-          {% else %}
-            <priority>{{ page.sitemap.priority }}</priority>
-          {% endif %}
-
         </url>      
       {% endif %}
     {% endif %}
