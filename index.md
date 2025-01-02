@@ -12,7 +12,7 @@ last_modified_date: 2024-01-02
 
 ## About the Blog
 
-2024.04 ~ {{ "now" | date: "%Y.%M" }}
+2024.04 ~ {{ "now" | date: "%Y.%m" }}
 
 ```bash
 pozuhtuhv.github.io
