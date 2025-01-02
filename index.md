@@ -8,11 +8,9 @@ published_date: 2024-04-06
 last_modified_date: 2024-01-02
 ---
 
-# Welcome to My GitBlog
+### About the Blog
 
-## About the Blog
-
-2024.04 ~ {{ "now" | date: "%Y.%m" }}
+2024.04 ~ {{ "now" | date: "%Y.%m" }} <br>
 
 ```bash
 pozuhtuhv.github.io
