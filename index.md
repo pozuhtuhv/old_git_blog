@@ -33,4 +33,8 @@ pozuhtuhv.github.io
 └── _config.yml - /_config.yml - Jekyll Blog Setting
 ```
 
+About the Blog
+
+2024.04 ~ {{ "now" | date: "%Y.%M" }}
+
 <div align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpozuhtuhv.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=This+Page+hits&edge_flat=false"/> </div>
