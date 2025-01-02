@@ -1,11 +1,11 @@
 ---
 title: Home
-layout: default
+layout: home
 permalink: /
 nav_order: 1
-description: "description"
-last_modified_date: 2024-04-06
-published : true
+description: "pozuhtuhv's Github Blog"
+published_date: 2024-04-06
+last_modified_date: 2024-01-02
 ---
 
 # Welcome to My GitBlog
