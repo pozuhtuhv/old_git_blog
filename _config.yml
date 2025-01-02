@@ -17,9 +17,9 @@
 remote_theme: just-the-docs/just-the-docs@v0.9.0
 
 title: pozuhtuhv
-description: pozuhtuhv's Code Blog
+description: 'minimal: less is more.'
 url: "https://pozuhtuhv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 permalink: pretty
 
