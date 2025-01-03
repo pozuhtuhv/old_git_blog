@@ -14,7 +14,9 @@
     <h5>- 사이트맵 세팅 / <a href ='https://github.com/pozuhtuhv/pozuhtuhv.github.io/blob/main/sitemap.xml'>참고1</a> <a href ='https://pozuhtuhv.github.io/etc/blog/blog-2'>참고2 </a></h5>
     <h4>2024-12-31</h4>
     <h5>- 카테고리 분류 및 최적화 / <a href ='https://github.com/pozuhtuhv/pozuhtuhv.github.io/tree/main/docs'>참고</a></h5>
-    <h4>2025-01-03</h4>
-    <h5>- Read the Docs - 테마 변경 진행중 (20250103 ~ ) / <a href ='https://about.readthedocs.com/'>참고</a></h5>
+    <h4>2025-01-03 ~ ing</h4>
+    <h5>- 테마 레퍼런스 서치</h5>
+    <h5>- Read the Docs - 테마 선정 진행중 (20250103 ~ ) / <a href ='https://about.readthedocs.com/'>참고</a></h5>
+    <h5>- Documentation-theme - 테마 선정 진행중 (20250104 ~ ) / <a href ='https://github.com/tomjoht/documentation-theme-jekyll/tree/gh-pages/'>참고</a></h5>
   </div>
 </details>
