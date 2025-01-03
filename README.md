@@ -16,7 +16,7 @@
     <h5>- 카테고리 분류 및 최적화 / <a href ='https://github.com/pozuhtuhv/pozuhtuhv.github.io/tree/main/docs'>참고</a></h5>
     <h4>2025-01-03 ~ ing</h4>
     <h5>- 테마 레퍼런스 서치</h5>
-    <h5>- Read the Docs / <a href ='https://about.readthedocs.com/'>참고</a></h5>
+    <h5>- <s>Read the Docs / <a href ='https://about.readthedocs.com/'>참고</a></s></h5>
     <h5>- Documentation-theme / <a href ='https://github.com/tomjoht/documentation-theme-jekyll/tree/gh-pages'>참고</a></h5>
     <h5>- Slatedoc / <a href ='https://github.com/slatedocs/slate'>참고</a></h5>
     <h5>- Hugo-PaperMod / <a href ='https://github.com/adityatelange/hugo-PaperMod'>참고</a></h5>
