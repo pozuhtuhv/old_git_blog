@@ -23,8 +23,8 @@
     <h5>- TeXt_theme / <a href ='https://github.com/kitian616/jekyll-TeXt-theme'>참고</a></h5>
     <h5>- console_theme / <a href ='https://github.com/b2a3e8/jekyll-theme-console'>참고</a></h5>
     <h5>- Gesko / <a href ='https://github.com/DavideBri/Gesko'>참고</a></h5>
-    <h5>- Kiko / <a href ='https://github.com/gfjaru/Kiko'>참고</a></h5>
+    <h5>- <s>Kiko / <a href ='https://github.com/gfjaru/Kiko'>참고</a></s></h5>
     <h5>- clyell / <a href ='https://github.com/gildasio/clyell'>참고</a></h5>
-    <h5>- solar / <a href ='https://github.com/mattvh/solar-theme-jekyll'>참고</a></h5>
+    <h5>- <s>solar / <a href ='https://github.com/mattvh/solar-theme-jekyll'>참고</a></s></h5>
   </div>
 </details>
