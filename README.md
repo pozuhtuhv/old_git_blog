@@ -17,14 +17,14 @@
     <h4>2025-01-03 ~ ing</h4>
     <h5>- 테마 레퍼런스 서치</h5>
     <h5>- <s>Read the Docs / <a href ='https://about.readthedocs.com/'>참고</a></s></h5>
-    <h5>- Documentation-theme / <a href ='https://github.com/tomjoht/documentation-theme-jekyll/tree/gh-pages'>참고</a></h5>
-    <h5>- Slatedoc / <a href ='https://github.com/slatedocs/slate'>참고</a></h5>
-    <h5>- Hugo-PaperMod / <a href ='https://github.com/adityatelange/hugo-PaperMod'>참고</a></h5>
-    <h5>- TeXt_theme / <a href ='https://github.com/kitian616/jekyll-TeXt-theme'>참고</a></h5>
+    <h5>- Documentation-theme / <a href ='https://github.com/tomjoht/documentation-theme-jekyll'>참고</a></h5>
+    <h5>- <s>Slatedoc / <a href ='https://github.com/slatedocs/slate'>참고</a></s></h5>
+    <h5>- <s>Hugo-PaperMod / <a href ='https://github.com/adityatelange/hugo-PaperMod'>참고</a></s></h5>
+    <h5>- <s>TeXt_theme / <a href ='https://github.com/kitian616/jekyll-TeXt-theme'>참고</a></s></h5>
     <h5>- console_theme / <a href ='https://github.com/b2a3e8/jekyll-theme-console'>참고</a></h5>
     <h5>- Gesko / <a href ='https://github.com/DavideBri/Gesko'>참고</a></h5>
-    <h5>- Kiko / <a href ='https://github.com/gfjaru/Kiko'>참고</a></h5>
+    <h5>- <s>Kiko / <a href ='https://github.com/gfjaru/Kiko'>참고</a></s></h5>
     <h5>- clyell / <a href ='https://github.com/gildasio/clyell'>참고</a></h5>
-    <h5>- solar / <a href ='https://github.com/mattvh/solar-theme-jekyll'>참고</a></h5>
+    <h5>- <s>solar / <a href ='https://github.com/mattvh/solar-theme-jekyll'>참고</a></s></h5>
   </div>
 </details>
