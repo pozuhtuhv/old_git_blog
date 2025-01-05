@@ -57,6 +57,8 @@ gem install jekyll
 여러 Jekyll 디자인중 하나를 다운로드하고, 폴더경로를 두고 cmd 실행 후 명령어 진행
 
 ```
+bundle install
+bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
